@@ -3,7 +3,7 @@ title: Gregor Bös
 description: Welcome to my academic website. Content, academic as non-academic, still under construction.
 email: gregor.boes@kcl.ac.uk
 
-url:                 http://gboes.github.io/academic
+url:                 http://gboes.github.io/
 baseurl:             /academic/
 
 exclude:
