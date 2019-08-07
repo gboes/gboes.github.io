@@ -4,7 +4,7 @@ description: Welcome to my academic website. Content, academic as non-academic, 
 email: gregor.boes@kcl.ac.uk
 
 url:                 http://gboes.github.io/
-baseurl:             /academic/
+baseurl:             academic/
 
 exclude:
  - README.md
