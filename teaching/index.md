@@ -2,6 +2,7 @@
 layout: default
 title: Teaching Materials
 ---
+
 # Nature of Material Provided
 I might offer *supplementary* materials for courses in which I serve as a teaching assistant. 
 These are only additions to the main material, specified in the convenor'S syllabus.
