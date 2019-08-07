@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Academic CV
-subtitle: Under Construction
 ---
 # Academic Profile
 ## Area of Specialization
