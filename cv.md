@@ -11,7 +11,7 @@ permalink: /cv/
 
 # Academic CV
 <p>
-I am trying to understand how phenomenological description and scientific theory can go together</p>
+I am trying to understand how phenomenological description of lived experience and scientific theory can go together</p>
 
 
 _click on entries to expand details_
@@ -126,16 +126,75 @@ undergraduate students
 Tutor and Research Tutor for two seminars on “Edmund Husserl: Logical Investigations"
 </details>
 
-___
+<p></p>
+
+## Research Presentations <small>peer reviewed</small>
+
+<details>
+<summary> 2019-09-27: <i>Husserl on the Lifeworld as a Foundation of Physics</i> (WT)
+</summary>
+
+---
+
+To be Presented at the 2nd Phenomenological Approaches to Physics Conference, Stony Brook University, NY, USA
+
+</details>
+
+
+<details>
+<summary> 2019-08-15: <i>Husserl's Lifeworld and the Priority of the Manifest Image</i>
+</summary>
+
+---
+
+Presented at the 2019 Summer School in Phenomenology and Philosophy of Mind, Centre for Subjectivity Research, Copenhagen. ([slides](/dl/2019_Copenhagen.pdf))
+
+</details>
+
+<details>
+<summary> 2018-06-14: <i>Hermann Weyl on Causality in Physics</i>
+</summary>
+
+---
+
+Presented at the International Conference: _Phenomenological Approaches to Physics_, University of Graz, Austria.
+
+</details>
+
+<details>
+<summary> 2016-09-22: <i>The Vivisection of Experience</i>
+</summary>
+
+---
+
+Presented at the 2nd International Conference in Philosophy of Mind, University of Minho, Braga, Portugal
+
+</details>
+
+
+<details>
+<summary> 2016-07-02: <i>Husserl and Carnap: Constitutional Systems and Theories of Meaning</i>
+</summary>
+
+---
+
+International Undergraduate Conference in Analytic Philosophy at Bayreuth University
+
+</details>
+
+
+<p></p>
+
+---
 <details>
 <summary> Scholarships and Awards
 </summary>
 
-- 2018 &ndash; 2012: King's College London Faculty of Arts and Humanities: Full PhD Scholarship
+- 2018 &ndash; 2021: King's College London Faculty of Arts and Humanities: Full PhD Scholarship
 - 2012 &ndash; 2018: National Academic Merit Foundation (Studienstiftung)
 - 2016 &ndash; 2017: DAAD Graduate Study Abroad Scholarship
 - 2014 &ndash; 2015: Full Scholarship of the Japanese Student Service Organisation (JASSO)
-- 05/2015: "Green Stories" Project Scholarship for a reportage on the life in Fukushima prefecture, article published [here](https://www.lizzynet.de/wws/ein-vergifteter-name.php?sid=54339215369202175156525552555960)
+- 05/2015: "Green Stories" Project Scholarship for a reportage on the life in Fukushima prefecture, article published in German [here](https://www.lizzynet.de/wws/ein-vergifteter-name.php?sid=54339215369202175156525552555960) and in [Novo Argumente](https://www.novo-argumente.com/artikel/fukushima_ein_vergifteter_name)
 - 03/2014: Project Scholarship from the German-French Youth Organisation: _This is art. Can we trash it?_ On the administration of artists' heritages. Sojourn in Paris
 - Jean-Walter prize of the zis-foundation for the reportage: _The philosophy of physicists. Fundamental Research and Multicultural Context at CERN_, previously project scholarship
 
@@ -145,6 +204,7 @@ ___
 <details>
 <summary> Languages
 </summary>
+
 - German: Mother Tongue
 - English: Fluent
 - French: Competent (C1)

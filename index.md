@@ -7,7 +7,7 @@ title: Gregor Bös
 ---
 # Coming Soon(-ish)
 
-In the meantime, this page holds a rudimentary [HTML CV](./cv/).
+For now, this page holds a basic [academic CV](./cv/) and the occasional [download](./dl/).
 
 <details><summary>Want to know more or want to collaborate?</summary><p> Send me an <a href="mailto:gregor.boes@kcl.ac.uk">email</a>!</p>
 </details>

@@ -23,3 +23,17 @@ p.thick {
 p.thicker {
   font-weight: bolder;
 }
+
+
+summary {
+    cursor: pointer;
+    margin-bottom: 5px
+}
+
+details {
+}
+
+details[open] {
+  background-color: #f6f7f8;
+  margin-bottom: 5px;
+}
