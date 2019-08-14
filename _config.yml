@@ -5,6 +5,6 @@ email: gregor.boes@kcl.ac.uk
 
 url:                 http://gboes.github.io
 baseurl:             /academic/
-
+markdown: CommonMarkGhPages
 exclude:
  - README.md

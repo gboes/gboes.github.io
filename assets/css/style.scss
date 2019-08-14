@@ -1,0 +1,25 @@
+---
+---
+
+@import "jekyll-theme-minimal";
+
+div.sitebg {
+  position: relative;
+}
+
+div.textbox {
+  position: absolute;
+  top: 25%;
+  left: 10%;
+  transform: translate(0%, -70%);
+}
+
+ol.empty {list-style-type: none;}
+
+p.thick {
+  font-weight: bold;
+}
+
+p.thicker {
+  font-weight: bolder;
+}
