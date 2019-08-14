@@ -137,7 +137,7 @@ ___
 - 2014 &ndash; 2015: Full Scholarship of the Japanese Student Service Organisation (JASSO)
 - 05/2015: "Green Stories" Project Scholarship for a reportage on the life in Fukushima prefecture, article published [here](https://www.lizzynet.de/wws/ein-vergifteter-name.php?sid=54339215369202175156525552555960)
 - 03/2014: Project Scholarship from the German-French Youth Organisation: _This is art. Can we trash it?_ On the administration of artists' heritages. Sojourn in Paris
-- Jean-Wlater prize of the zis-foundation for the reportage: _The philosophy of physicists. Fundamental Research and Multicultural Context at CERN_, previously project scholarship
+- Jean-Walter prize of the zis-foundation for the reportage: _The philosophy of physicists. Fundamental Research and Multicultural Context at CERN_, previously project scholarship
 
 </details>
 
