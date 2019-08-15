@@ -2,6 +2,7 @@
 layout: default
 title: Gregor Bös
 ---
+<meta name="google-site-verification" content="EC74dugUDTuDHpZ8DkauUwvDMa71XN8XtyTC0QoIBSk" />
 # Welcome
 
 For now, this website holds a basic [academic CV](./cv/) and a [download](./dl/) section. Draft papers coming soon!
