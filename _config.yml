@@ -9,10 +9,5 @@ markdown: CommonMarkGhPages
 exclude:
  - README.md
 
-plugins:
-  - jekyll-analytics
-
-jekyll_analytics:
-  GoogleAnalytics:
-    id: UA-145857720-1      # Required - replace with your tracking id
-    anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
+# Google Analytics:
+google_analytics: UA-145857720-1
