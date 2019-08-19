@@ -24,7 +24,7 @@ _click on entries to expand details_
 
 ## Education
 <details>
-<summary>**2018 &ndash; currently: King's College London, PhD candidate**
+<summary><b>2018 &ndash; currently: King's College London, PhD candidate</b>
 </summary>
 
 Research Topic: _The Phenomenological Lifeworld as a Foundation of Natural Science_
@@ -93,10 +93,13 @@ High School Diploma (Abitur) in Baden-Württemberg (best of 123 graduates). Core
 <details>
 <summary>2019-09 &ndash; currently: King's College London
 </summary>
+
 Graduate Teaching Assistant for the modules:
+
 - Ethics and Politics of Science and Technology (Dr. Matteo Mameli)
 - Methodology (Prof. Julien Dutant)
 - Belief and Decision Under Uncertainty (Prof. Alexander Bird)
+
 </details>
 
 
