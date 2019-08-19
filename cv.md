@@ -4,10 +4,14 @@ title: Academic CV
 permalink: /cv/
 ---
 
-<!-- <details>
+<!--
+Template is:
+<details>
 <summary>
 </summary>
-</details> -->
+</details>
+This could probably be made more useful with a CSS styling
+-->
 
 # Academic CV
 <p>
@@ -20,7 +24,7 @@ _click on entries to expand details_
 
 ## Education
 <details>
-<summary> King's College London (2018 &ndash; currently): PhD candidate
+<summary>**2018 &ndash; currently: King's College London, PhD candidate**
 </summary>
 
 Research Topic: _The Phenomenological Lifeworld as a Foundation of Natural Science_
@@ -33,7 +37,7 @@ Primary Supervisor: Mark Textor
 ---
 
 <details>
-<summary> LMU Munich: M.A. Philosophy (2018)
+<summary>2018: LMU Munich, M.A. Philosophy
 </summary>
 Dissertation Topic: <em>Husserl's Philosophy of Natural Science and Scientific Realism</em>
 
@@ -41,7 +45,7 @@ Thesis Supervisors: Christopher Erhard, Alexander Reutlinger
 </details>
 
 <details>
-<summary> LMU Munich: B.Sc. Physics (2017)
+<summary>2017: LMU Munich, B.Sc. Physics
 </summary>
 Thesis Topic: <em>Sequential Artificial Neural Networks for the Trigger of the Belle II Experiment</em>
 
@@ -52,13 +56,13 @@ Thesis Supervisor: Christian Kiesling (LMU and Max-Planck Institute for Physics)
 </details>
 
 <details>
-<summary> University of Cambridge (2016 &ndash; 2017)
+<summary>2016 &ndash; 2017: University of Cambridge
 </summary>
 Research Student, Department of Philosophy, Hughes Hall College
 </details>
 
 <details>
-<summary> LMU Munich: B.A. Philosophy (2016)
+<summary> 2016: LMU Munich, B.A. Philosophy
 </summary>
 Thesis: <em>Carnap’s ‘Aufbau’ in a Husserlian Context. Towards a phenomenological ‘Aufbau’ or a logicist phenomenology.</em>
 
@@ -66,7 +70,7 @@ Thesis Supervisor: Christopher Erhard
 </details>
 
 <details>
-<summary> University of Tokyo (2014 &ndash; 2015)
+<summary> 2014 &ndash; 2015: University of Tokyo
 </summary>
 Exchange Student in the USTEP-Programme
 </details>
@@ -78,7 +82,7 @@ Exchange Student in the USTEP-Programme
 <details>
 <summary> Pre-University
 </summary>
-European Voluntary Service at youth centre a.s.b.l. in Troisvierges, Luxembourg (2011 &ndash; 2012)
+2011 &ndash; 2012: European Voluntary Service at youth centre a.s.b.l. in Troisvierges, Luxembourg
 
 High School Diploma (Abitur) in Baden-Württemberg (best of 123 graduates). Core subjects: physics, fine arts
 
@@ -87,15 +91,26 @@ High School Diploma (Abitur) in Baden-Württemberg (best of 123 graduates). Core
 
 ## Employment
 <details>
-<summary> London School of Economics (12/2018 &ndash; currently)
+<summary>2019-09 &ndash; currently: King's College London
+</summary>
+Graduate Teaching Assistant for the modules:
+- Ethics and Politics of Science and Technology (Dr. Matteo Mameli)
+- Methodology (Prof. Julien Dutant)
+- Belief and Decision Under Uncertainty (Prof. Alexander Bird)
+</details>
+
+
+
+<details>
+<summary>2018-12 &ndash; currently: London School of Economics
 </summary>
 Occasional Research Assistant for Dr. Moqi Groen-Xu, Department of Finance  
 
-Collation and Exploration of metadata for 17m scientific articles in Python (Scopus)
+Collation and explorative analysis of metadata for 17m scientific articles (Scopus)
 </details>
 
 <details>
-<summary> Max-Planck Institute for Inn. and Comp., Munich (10/2017 &ndash; 9/2018)
+<summary> 2017-10 &ndash; 2018-09: Max-Planck Institute for Innovation and Competition, Munich
 </summary>
 Student Research Assistant under Dietmar Harhoff
 
@@ -104,26 +119,25 @@ publication abstract databases (Scikit-learn, pandas, nltk)
 </details>
 
 <details>
-<summary> Pembroke College, Cambridge
+<summary> 2017-08 and 2018-03: Pembroke College, Cambridge
 </summary>
-Programme Assistant for 2 Japanese Summer Schools  
+Programme Assistant for 2 Japanese Summer Schools
 
-Organization of extracurricular activities, pastoral care for high school and
-undergraduate students
+Support of lecturers, individual tutoring, organization of extracurricular activities, pastoral care for high school and undergraduate students
 </details>
 
 
 <details>
-<summary> Government of Upper Bavaria
+<summary> 2016-07 &ndash; 2018-07: Government of Upper Bavaria
 </summary>
 5 Philosophy Workshops for gifted students, 9th and 11th grade
 </details>
 
 
 <details>
-<summary> University of Munich (10/2016 &ndash; 7/2016)
+<summary> 2015-10 &ndash; 2016-07: LMU Munich
 </summary>
-Tutor and Research Tutor for two seminars on “Edmund Husserl: Logical Investigations"
+Tutor and Research Tutor for two seminars on “Edmund Husserl: Logical Investigations". Seminar jointly organised with Prof. Verena Mayer.
 </details>
 
 <p></p>
