@@ -2,6 +2,7 @@
 layout: default
 title: About
 permalink: /about/
+description: About the academic website of Gregor Bös.
 ---
 
 This website is created and maintained by Gregor Bös.

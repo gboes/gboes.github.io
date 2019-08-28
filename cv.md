@@ -2,6 +2,7 @@
 layout: default
 title: Academic CV
 permalink: /cv/
+description: Academic CV of Gregor Bös, philosophy PhD Student at King's College London. 
 ---
 
 <!--

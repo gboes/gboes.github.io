@@ -2,6 +2,7 @@
 layout: default
 title: Downloads
 permalink: /dl/
+description: Downloads offered on the academic website of Gregor Bös.
 ---
 
 ## Drafts

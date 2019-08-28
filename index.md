@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Gregor Bös
-description: Academic Website of Gregor Bös, philosophy PhD Student at King's College London. 
+description: Academic Website of Gregor Bös, philosophy PhD Student at King's College London, working on phenomenology and philosophy of science. 
 ---
 # Welcome
 
