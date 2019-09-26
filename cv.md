@@ -2,7 +2,7 @@
 layout: default
 title: Academic CV
 permalink: /cv/
-description: Academic CV of Gregor Bös, philosophy PhD Student at King's College London. 
+description: Academic CV of Gregor Bös, philosophy PhD Student at King's College London.
 ---
 
 <!--
@@ -97,9 +97,9 @@ High School Diploma (Abitur) in Baden-Württemberg (best of 123 graduates). Core
 
 Graduate Teaching Assistant for the modules:
 
-- Ethics and Politics of Science and Technology (Dr. Matteo Mameli)
-- Methodology (Prof. Julien Dutant)
 - Belief and Decision Under Uncertainty (Prof. Alexander Bird)
+- Methodology (Prof. Julien Dutant)
+- Ethics and Politics of Science and Technology (Dr. Matteo Mameli)
 
 </details>
 
@@ -149,12 +149,11 @@ Tutor and Research Tutor for two seminars on “Edmund Husserl: Logical Investig
 ## Research Presentations <small>peer reviewed</small>
 
 <details>
-<summary> 2019-09-27: <i>Husserl on the Lifeworld as a Foundation of Physics</i> (WT)
-</summary>
+<summary> 2019-09-27: <i>Lifeworld Foundation and the Scientific Image</i></summary>
 
 ---
 
-To be Presented at the 2nd Phenomenological Approaches to Physics Conference, Stony Brook University, NY, USA
+Presented at the 2nd Phenomenological Approaches to Physics Conference, Stony Brook University, NY, USA. ([slides](/dl/2019-09_Stony_Brook.pdf))
 
 </details>
 
@@ -239,7 +238,7 @@ International Undergraduate Conference in Analytic Philosophy at Bayreuth Univer
 </details>
 
 <details>
-<summary> Voluntary Commitments
+<summary> Voluntary Work
 </summary>
 
 - Steering committee member and mentor for the [zis-foundation](https://www.zis-reisen.de/en/) (est. 1956) which supports youth aged 16-21 in realizing individual projects that are based on travel abroad
