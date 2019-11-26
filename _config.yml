@@ -3,7 +3,8 @@ title: Gregor Bös
 description: Welcome to my academic website.
 email: gregor.boes@kcl.ac.uk
 
-url:                 https://gboes.github.io
+# url:                 https://gboes.github.io
+url:                  https://
 baseurl:             ''
 markdown: CommonMarkGhPages
 exclude:
