@@ -4,7 +4,7 @@ description: Welcome to my academic website.
 email: gregor.boes@kcl.ac.uk
 
 # url:                 https://gboes.github.io
-url:                  https://
+url:                  https://gregorboes.com
 baseurl:             ''
 markdown: CommonMarkGhPages
 exclude:
