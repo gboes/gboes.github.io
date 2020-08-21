@@ -1,0 +1,19 @@
+# default setting: detect automatically, whether a file is binary or not
+* text=auto
+# specific configs override this setting
+# These files are text and should be normalized (convert crlf =&gt; lf)
+*.cs      text diff=csharp
+*.md      text
+*.html      text
+*.lock      text
+*.yml      text
+*.odt    text
+*.org    text
+*.odt    text
+# files that are binary
+# (binary is a macro for -text -diff)
+*.png     binary
+*.jpeg    binary
+*.jpg    binary
+*.pdf    binary
+*.sdf     binary

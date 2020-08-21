@@ -102,7 +102,14 @@ High School Diploma (Abitur) in Baden-Württemberg (best of 123 graduates). Core
 
 Research Assistant for Dr. Moqi Groen-Xu, School of Economics and Finance
 
-Citation network analysis.
+Database matching and citation network analysis.
+</details>
+
+<details>
+<summary>2020-06 &ndash; currently: King's College London, Peter Sowerby Philosophy of Medicine Project
+</summary>
+
+Website administration and technical support for [philosophyandmedicine.org](https://www.philosophyandmedicine.org)
 </details>
 <details>
 <summary>2019-09 &ndash; 2020-04: King's College London
