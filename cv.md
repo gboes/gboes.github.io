@@ -106,10 +106,10 @@ Database matching and citation network analysis.
 </details>
 
 <details>
-<summary>2020-06 &ndash; currently: King's College London, Peter Sowerby Philosophy of Medicine Project
+<summary>2020-06 &ndash; currently: King's College London, Sowerby Project
 </summary>
 
-Website administration and technical support for [philosophyandmedicine.org](https://www.philosophyandmedicine.org)
+Project Assistant for the [Peter Sowerby Philosophy of Medicine Project](https://www.philosophyandmedicine.org)
 </details>
 <details>
 <summary>2019-09 &ndash; 2020-04: King's College London
