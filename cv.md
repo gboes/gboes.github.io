@@ -214,6 +214,7 @@ International Undergraduate Conference in Analytic Philosophy at Bayreuth Univer
 <summary> Scholarships and Awards
 </summary>
 
+- 2020: King's College London Global Research Grant. Supporting a Research Stay at the [Centre for Subjectivity Research](https://www.cfs.ku.dk), University of Copenhagen
 - 2018 &ndash; 2021: King's College London Faculty of Arts and Humanities: Full PhD Scholarship
 - 2012 &ndash; 2018: National Academic Merit Foundation (Studienstiftung)
 - 2016 &ndash; 2017: DAAD Graduate Study Abroad Scholarship
