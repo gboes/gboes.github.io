@@ -9,6 +9,15 @@ description: Downloads offered on the academic website of Gregor Bös.
 Coming Soon
 
 ## Presentations
+<details><summary> 2020-09: <i>Husserlian Verificationism</i> </summary>
+
+---
+
+presented at the Centre for Subjectivity Research Seminar, Copenhagen ([download](./2020-09-29_verificationism_slides.pdf))
+
+</details>
+
+
 <details><summary> 2019-09: <i>Lifeworld Foundation and the Scientific Image</i> </summary>
 
 ---
