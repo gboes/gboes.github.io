@@ -242,8 +242,9 @@ International Undergraduate Conference in Analytic Philosophy at Bayreuth Univer
 <summary> Other Skills
 </summary>
 
-- Programming (Python: Pandas, scikit-learn; LaTeX)
-- Photography and Film Editing
+- Programming (Python: pandas, scikit-learn; LaTeX; basic Octave; HPC computing on LSE's _fabian_ and QMUL's _Apocrita_ clusters)
+- Coursera Certificate _Machine Learning_ with Andrew Ng (verified)
+- Photography and Film Editing, basic WordPress knowledge
 </details>
 
 <details>
