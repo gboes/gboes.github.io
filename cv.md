@@ -16,7 +16,7 @@ This could probably be made more useful with a CSS styling
 
 # Academic CV
 <p>
-I am trying to understand how phenomenological description of lived experience and scientific theory can go together</p>
+My research interests are broad, but they mostly relate some way or other to the question of what a phenomenological philosophy of natural science should look like. </p>
 
 
 _click on entries to expand details_
@@ -97,12 +97,13 @@ High School Diploma (Abitur) in Baden-Württemberg (best of 123 graduates). Core
 
 ## Employment
 <details>
-<summary>2020-04 &ndash; currently: Queen Mary, University of London
+<summary>2019-09 &ndash; currently: King's College London
 </summary>
 
-Research Assistant for Dr. Moqi Groen-Xu, School of Economics and Finance
-
-Database matching and citation network analysis.
+Graduate Teaching Assistant for the modules:
+- Belief and Decision Under Uncertainty x2 (Prof. Alexander Bird)
+- Methodology x2 (Prof. Julien Dutant, Prof. Clayton Littlejohn)
+- Ethics and Politics of Science and Technology (Dr. Matteo Mameli)
 </details>
 
 <details>
@@ -111,22 +112,26 @@ Database matching and citation network analysis.
 
 Project Assistant for the [Peter Sowerby Philosophy of Medicine Project](https://www.philosophyandmedicine.org)
 </details>
+
+
 <details>
-<summary>2019-09 &ndash; 2020-04: King's College London
+<summary>2020-04 &ndash; 2020-09: Queen Mary, University of London
 </summary>
 
-Graduate Teaching Assistant for the modules:
-- Belief and Decision Under Uncertainty (Prof. Alexander Bird)
-- Methodology (Prof. Julien Dutant)
-- Ethics and Politics of Science and Technology (Dr. Matteo Mameli)
+Research Assistant for Dr. Moqi Groen-Xu, School of Economics and Finance
+
+Database matching and citation network analysis.
 </details>
+
+
+
 <details>
 <summary>2018-12 &ndash; 2020-04: London School of Economics
 </summary>
 
 Occasional Research Assistant for Dr. Moqi Groen-Xu, Department of Finance
 
-Collation and explorative analysis of metadata for 17m scientific articles (Scopus)
+Collation and explorative analysis of metadata for 17m scientific articles (Scopus, Python)
 </details>
 <details>
 <summary> 2017-10 &ndash; 2018-09: Max-Planck Institute for Innovation and Competition, Munich
@@ -135,7 +140,7 @@ Collation and explorative analysis of metadata for 17m scientific articles (Scop
 Student Research Assistant under Dietmar Harhoff
 
 Application of machine learning tools on patent and
-publication abstract databases (Scikit-learn, pandas, nltk)
+publication abstract databases (Python)
 </details>
 <details>
 <summary> 2017-08 and 2018-03: Pembroke College, Cambridge
@@ -231,10 +236,10 @@ International Undergraduate Conference in Analytic Philosophy at Bayreuth Univer
 </summary>
 
 - German: Mother Tongue
-- English: Fluent
-- French: Competent (C1)
-- Japanese: Basic (~A2)
-- Spanish: Basic (~A2)
+- English: C2 certified
+- French: Competent (ca. C1)
+- Japanese: Basic (ca. A2 / JLPT N3)
+- Spanish: Basic (ca. A2)
 
 </details>
 
@@ -251,5 +256,5 @@ International Undergraduate Conference in Analytic Philosophy at Bayreuth Univer
 <summary> Social Engagement
 </summary>
 
-- Steering committee member and mentor for the [zis-foundation](https://www.zis-reisen.de/en/) (est. 1956) which supports youth aged 16-21 in realizing individual projects that are based on travel abroad
+- Steering committee member and mentor for the [zis-foundation](https://www.zis-reisen.de/en/) (est. 1956) which offers scholarships to youth aged 16-21 to realize educational travel projects
 </details>
