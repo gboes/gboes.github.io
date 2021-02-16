@@ -172,8 +172,9 @@ Let me know if this was helpful, if there are omissions or errors, or if you hav
 
 
 ## Further resources
-A good channel with feature demonstrations of ereader is _My Deep Guide_. The name is apt, given this 1h:17 [review of the Max 3](https://www.youtube.com/watch?v=SEHFkqHtu_g).
+A good channel with feature demonstrations of eReaders is _My Deep Guide_. The name is apt, considering this 1h:17 [review of the Max 3](https://www.youtube.com/watch?v=SEHFkqHtu_g).
 There are more eReader specific channels on youtube, but I find them often a bit too enthusiastic.
+
 
 ___
 <b id="f1">1</b> The shipping was insured. But because I did not have individual receipts for the dozens of books, my reimbursement followed a bulk freight calculation - estimating the value of my shipment by weight, where it turns out a kilo of book is worth about €10.  [↩](#a1)
