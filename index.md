@@ -5,9 +5,8 @@ description: Academic Website of Gregor Bös, philosophy PhD Student at King's C
 ---
 # Welcome
 
-I am a philosophy PhD student at King's College London, working on the intersection of phenomenology and philosophy of science. More specifically, I am currently interested in Husserl's conception of the *lifeworld* of everyday experience and its investigation in empirical science (especially physics).
+I am PhD student at the philosophy department of King's College London. My research interests have developed from the intersection of philosophy of science and early phenomenology. More specifically, I am currently interested in Husserl's conception of the *lifeworld* and its prospects as a starting point for phenomenological philosophy, and philosophy of natural science (especially physics). I have also done some empirical research on publication and citation patterns in academia (under review, [draft on SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3083692) ).
 
-For now, this website holds a basic [academic CV](./cv/) and a [download](./dl/) section with presentation slides. Draft papers are coming soon!
+For now, this website holds a basic [academic CV](./cv/) and a [download](./dl/) section with presentation slides. I recently added a section for research [tools](./tools/) that I gathered over the last few years. I try to describe only those where it was a harder to find information online &ndash; my starting with a setup for reading and annotating with a little known [eInk tablet](./tools/ereader/ "Like paper but digital - an eInk solution for focused reading and writing").
 
-<details><summary>Any questions or ideas to share?</summary><p> Don't hesitate to send me an <a href="mailto:gregor.boes@kcl.ac.uk">email</a>!</p>
-</details>
+<p> I am always keen to discuss philosophy, participate in reading groups, or consider collaborations &nbsp; just send me an <a href="mailto:mail@gregorboes.com">email</a>!
