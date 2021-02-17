@@ -7,7 +7,7 @@
 <!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
 **Table of Contents**
 
-- [What exactly is the problem](#what-exactly-is-the-problem)
+- [The problem](#the-problem)
 - [Basics: eInk](#basics-eink)
 - [The Boox Max 3 - and its price drop](#the-boox-max-3---and-its-price-drop)
 - [Demonstration: pdf reading and annotation](#demonstration-pdf-reading-and-annotation)
