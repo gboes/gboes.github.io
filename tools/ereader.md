@@ -155,6 +155,7 @@ I have tried the reMarkable 2 and returned it before getting the Max 3. My main 
 - synchronization only via reMarkable cloud and Desktop application
 - very tedious pdf navigation
 - pdf annotations are in a bitmap layer
+
 I think it is a nicely designed device with good hardware, and much better marketing than Onyx. The return was fine as well, I don't know if that would be more complicated for Onyx &nbsp; so if you are on the fence whether eInk is for you at all, and might be more interested in writing than reading, the reMarkable 2 might be worth a shot.
 
 ## Anticipating disappointments
