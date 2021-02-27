@@ -1,3 +1,10 @@
+---
+title: digital paper - eInk for focused reading and writing
+layout: default
+permalink: /tools/ereader
+description: This little article describes how I use a Boox Max 3 in conjunction with Zotero for reading, annotating, and synchronizing a digital library (mostly pdfs). The setup also has great potential for writing and note taking, both by longhand and typing.
+---
+
 # Like paper, but digital &ndash; an eInk solution for focused reading and writing
 
 > This little article describes how I use a Boox Max 3 in conjunction with Zotero for reading, annotating, and synchronizing a digital library (mostly pdfs). 
@@ -179,6 +186,6 @@ There are more eReader specific channels on youtube, but I find them often a bit
 ___
 <b id="f1">1</b> The shipping was insured. But because I did not have individual receipts for the dozens of books, my reimbursement followed a bulk freight calculation - estimating the value of my shipment by weight, where it turns out a kilo of book is worth about €10.  [↩](#a1)
 
-<b id="f2">2</b> Rereading Huw Price's paper "Metaphysics after Carnap: The Ghost who walks?", I for the first time noticed Price's weird typographic pun: using a smaller-than-standard space in the middle of Carnap's, before describing how a famous logical empiricist falls asleep in a traffic jam.[↩](#a2)
+<b id="f2">2</b> Looking at Huw Price's paper "Metaphysics after Carnap: The Ghost who walks?" for this video, for the first time I noticed Price's typographic pun: a smaller-than-standard space in the middle of Carnap's name, before setting up the scenario, of a famous logical empiricist falling asleep in a traffic jam.[↩](#a2)
 
 ![Boox Max 3 in a tablet stand](/graphics/max3_portrait_web.jpg)
