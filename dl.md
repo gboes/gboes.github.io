@@ -6,7 +6,9 @@ description: Downloads offered on the academic website of Gregor Bös.
 ---
 
 ## Drafts
-Coming Soon
+- Philosophy drafts coming soon.
+- [How research evaluations can damage scientific quality: 23 years of evidence from the UK Research Excellence Framework](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3083692) with Moqi Groen-Xu, Pedro Teixeira, Thomas Voigt, and Bernhard Knapp; under review.
+
 
 ## Presentations
 <details><summary> 2020-09: <i>Husserlian Verificationism</i> </summary>
