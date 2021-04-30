@@ -104,6 +104,7 @@ Graduate Teaching Assistant for the modules:
 - Belief and Decision Under Uncertainty x2 (Prof. Alexander Bird)
 - Methodology x2 (Prof. Julien Dutant, Prof. Clayton Littlejohn)
 - Ethics and Politics of Science and Technology (Dr. Matteo Mameli)
+- Neuroscience and the Mind (Dr. Adrian Alsmith, summative assessment only)
 </details>
 
 <details>
