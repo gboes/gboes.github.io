@@ -95,7 +95,7 @@ Much of the setup relies on the freedom to install arbitrary applications from t
 File synchronization works via AutoSync for Google Drive. I use this to synchronize my pdf library, which I organize with Zotero and its zotfile plugin: it is a simple folder with a good number of files named "AuthorYear_Title.pdf". I am very happy with this setup and it I could move it to a different device or operating system in a flash. 
 
 I always found it helpful to print and read an in progress draft. The physical change in interaction really helps me to get fresh eyes on what I have written, and it stops getting distracted by small formatting changes. I guess I will keep printing my drafts now and then, but using the reader to the same end seemed to work as well. This is why, besides the Zotero folder, I also synchronize a temporary folder. 
-I have defined a tiny bash function (I am using WSL1), that copies an arbitrary file into that location &nbsp; maybe useful for somebody:
+I have defined a tiny bash function (I am using WSL1), that copies an arbitrary file into that location &ndash; maybe useful for somebody:
 ```
 # define environment variable:
 export BOOXTEMP="/mnt/d/your/path/to/cloud/boox/temp/"
@@ -156,7 +156,7 @@ I have tried the reMarkable 2 and returned it before getting the Max 3. My main 
 - very tedious pdf navigation
 - pdf annotations are in a bitmap layer
 
-I think it is a nicely designed device with good hardware, and much better marketing than Onyx. The return was fine as well, I don't know if that would be more complicated for Onyx &nbsp; so if you are on the fence whether eInk is for you at all, and might be more interested in writing than reading, the reMarkable 2 might be worth a shot.
+I think it is a nicely designed device with good hardware, and much better marketing than Onyx. The return was fine as well, I don't know if that would be more complicated for Onyx &ndash; so if you are on the fence whether eInk is for you at all, and might be more interested in writing than reading, the reMarkable 2 might be worth a shot.
 
 ## Anticipating disappointments
 I am writing a lot of negative things here, so I should maybe reiterate: you can take _all_ your books with you, into the park, and read in the sun while nothing disturbs your peaceful philosophical thinking! It is a dream and I love it. But there are a already a number of youtube channels that already give their best to create a hype for eReaders. Let me focus on some warnings instead.
