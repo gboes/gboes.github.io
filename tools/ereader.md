@@ -153,7 +153,7 @@ I have tried the reMarkable 2 and returned it before getting the Max 3. My main 
 - smaller screen
 - no Bluetooth Keyboard
 - synchronization only via reMarkable cloud and Desktop application
-- very tedious pdf navigation
+- tedious pdf navigation
 - pdf annotations are in a bitmap layer
 
 I think it is a nicely designed device with good hardware, and much better marketing than Onyx. The return was fine as well, I don't know if that would be more complicated for Onyx &ndash; so if you are on the fence whether eInk is for you at all, and might be more interested in writing than reading, the reMarkable 2 might be worth a shot.
@@ -176,7 +176,9 @@ The Max 3 also supports termux, which gives access to a command line with a lot 
 <iframe width="360" height="640" src="https://www.youtube.com/embed/45dnxoKx8F4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
-Let me know if this was helpful, if there are omissions or errors, or if you have recommendations to add. Enjoy reading.
+Since all I needed was covered with this setup, I did not do further tests with SSH. But the juiceSSH Android app installs and starts up as normally, so there seems to be potential for linux based projects. 
+
+Let me know if this was helpful, if there are omissions or errors, or if you have experiences and recommendations to add. Enjoy reading!
 
 
 ## Further resources
