@@ -168,6 +168,36 @@ Tutor and Research Tutor for two seminars on “Edmund Husserl: Logical Investig
 
 ## Research Presentations <small>peer reviewed</small>
 
+
+<details>
+<summary> 2021-09-22: <i>Husserl's Notion of Truth and Verificationist Theories of Meaning</i></summary>
+
+---
+
+German Phenomenological Society (DGPF) Doctoral Colloquium, Jena, Germany
+</details>
+
+<details>
+<summary> 2021-09-10: <i>Can Husserl's Notion of Truth Sustain Metaphysical Realism?</i></summary>
+
+---
+
+SoPhiA Conference for Young Analytic Philosophy, Salzburg, Austria
+</details>
+
+
+
+<details>
+<summary> 2020-09: <i>Phenomenological Verificationism</i></summary>
+
+---
+
+Start of Year Departmental Conference, King’s College London, UK
+
+</details>
+
+
+
 <details>
 <summary> 2019-09-27: <i>Lifeworld Foundation and the Scientific Image</i></summary>
 
