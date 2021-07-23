@@ -25,10 +25,10 @@ _click on entries to expand details_
 
 ## Education
 <details>
-<summary><b>2018 &ndash; currently: King's College London, PhD candidate</b>
+<summary><b>2018 &ndash; currently: PhD candidate, King's College London</b>
 </summary>
 
-Research Topic: _The Phenomenological Lifeworld as a Foundation of Natural Science_
+Research Topic:_The Phenomenological Lifeworld as a Foundation of Natural Science_
 
 Primary Supervisor: Mark Textor
 
@@ -38,7 +38,7 @@ Primary Supervisor: Mark Textor
 ---
 
 <details>
-<summary>2018: LMU Munich, M.A. Philosophy
+<summary>2018: M.A. Philosophy, LMU Munich
 </summary>
 Dissertation Topic: <em>Husserl's Philosophy of Natural Science and Scientific Realism</em>
 
@@ -46,7 +46,7 @@ Thesis Supervisors: Christopher Erhard, Alexander Reutlinger
 </details>
 
 <details>
-<summary>2017: LMU Munich, B.Sc. Physics
+<summary>2017: B.Sc. Physics, LMU Munich
 </summary>
 
 Thesis Topic: <em>Sequential Artificial Neural Networks for the Trigger of the Belle II Experiment</em>
@@ -65,7 +65,7 @@ Research Student, Department of Philosophy, Hughes Hall College
 </details>
 
 <details>
-<summary> 2016: LMU Munich, B.A. Philosophy
+<summary> 2016: B.A. Philosophy, LMU Munich
 </summary>
 
 Thesis: <em>Carnap’s ‘Aufbau’ in a Husserlian Context. Towards a phenomenological ‘Aufbau’ or a logicist phenomenology.</em>
@@ -90,7 +90,7 @@ Exchange Student in the USTEP-Programme
 
 2011 &ndash; 2012: European Voluntary Service at youth centre a.s.b.l. in Troisvierges, Luxembourg
 
-High School Diploma (Abitur) in Baden-Württemberg (best of 123 graduates). Core subjects: physics, fine arts
+Abitur in Baden-Württemberg (best of 123 graduates). Core subjects: physics, fine arts
 
 </details>
 <p></p>
