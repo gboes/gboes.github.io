@@ -178,6 +178,15 @@ German Phenomenological Society (DGPF) Doctoral Colloquium, Jena, Germany
 </details>
 
 <details>
+<summary> 2021-09-08: <i>Ideal Verificationism and Realism</i></summary>
+
+---
+
+First Austrian Summer School in Phenomenology, Graz, Austria (online)
+
+</details>
+
+<details>
 <summary> 2021-09-10: <i>Can Husserl's Notion of Truth Sustain Metaphysical Realism?</i></summary>
 
 ---
@@ -188,7 +197,7 @@ SoPhiA Conference for Young Analytic Philosophy, Salzburg, Austria
 
 
 <details>
-<summary> 2020-09: <i>Phenomenological Verificationism</i></summary>
+<summary> 2020-09-24: <i>Phenomenological Verificationism</i></summary>
 
 ---
 
