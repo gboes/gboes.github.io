@@ -194,7 +194,7 @@ German Phenomenological Society (DGPF) Doctoral Colloquium, Jena, Germany
 
 ---
 
-SoPhiA Conference for Young Analytic Philosophy, Salzburg, Austria (online)
+SoPhiA Conference for Young Analytic Philosophy, Salzburg, Austria (online) ([slides](/dl/2021-09-11-Salzburg_presentation.pdf))
 </details>
 
 <details>
@@ -202,11 +202,19 @@ SoPhiA Conference for Young Analytic Philosophy, Salzburg, Austria (online)
 
 ---
 
-First Austrian Summer School in Phenomenology, Graz, Austria (online)
+First Austrian Summer School in Phenomenology, Graz, Austria (online) ([slides](/dl/2021-09-08_Graz_presentation.pdf))
 
 </details>
 
 
+<details>
+<summary> 2021-09-08: (K. Rachlitz and B. Großmann-Hensel) <i>Comparative Functional Analysis as a Cultivation of the Attitude of Wonder</i></summary>
+
+---
+
+PHILOS Colloquium on Philosophy and Organization Studies, Rhodes, Greece (online)
+
+</details>
 
 <details>
 <summary> 2020-09-24: <i>Phenomenological Verificationism</i></summary>
