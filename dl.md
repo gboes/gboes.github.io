@@ -11,6 +11,26 @@ description: Downloads offered on the academic website of Gregor Bös.
 
 
 ## Presentations
+
+<details>
+<summary> 2021-09-11: <i>Can Husserl's Notion of Truth Sustain Metaphysical Realism?</i></summary>
+
+---
+
+SoPhiA Conference for Young Analytic Philosophy, Salzburg, Austria (online) ([slides](/dl/2021-09-11-Salzburg_presentation.pdf))
+</details>
+
+<details>
+<summary> 2021-09-08: <i>Ideal Verificationism and Realism</i></summary>
+
+---
+
+First Austrian Summer School in Phenomenology, Graz, Austria (online) ([slides](/dl/2021-09-08_Graz_presentation.pdf))
+
+</details>
+
+
+
 <details><summary> 2020-09: <i>Husserlian Verificationism</i> </summary>
 
 ---

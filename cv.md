@@ -16,7 +16,7 @@ This could probably be made more useful with a CSS styling
 
 # Academic CV
 <p>
-My research interests are broad, but they mostly relate some way or other to the question of what a phenomenological philosophy of natural science should look like. </p>
+My research interests mostly relate in some way or other to the question, what significance we can attach to the manifest image, and what a phenomenological philosophy of natural science should look like. </p>
 
 
 _click on entries to expand details_
@@ -178,7 +178,6 @@ Tutor and Research Tutor for two seminars on “Edmund Husserl: Logical Investig
 Young Researchers seminar, University of Paris 1, Panthéon-Sorbonne, France
 </details>
 
-<details>
 
 <details>
 <summary> 2021-09-22: <i>Husserls Wahrheitsbegriff und verifikationistische Theorien der Bedeutung</i></summary>
@@ -235,6 +234,7 @@ Start of Year Departmental Conference, King’s College London, UK
 Presented at the 2nd Phenomenological Approaches to Physics Conference, Stony Brook University, NY, USA. ([slides](/dl/2019-09_Stony_Brook.pdf))
 
 </details>
+
 <details>
 <summary> 2019-08-15: <i>Husserl's Lifeworld and the Priority of the Manifest Image</i>
 </summary>
@@ -244,6 +244,7 @@ Presented at the 2nd Phenomenological Approaches to Physics Conference, Stony Br
 Presented at the 2019 Summer School in Phenomenology and Philosophy of Mind, Centre for Subjectivity Research, Copenhagen. ([slides](/dl/2019_Copenhagen.pdf))
 
 </details>
+
 <details>
 <summary> 2018-06-14: <i>Hermann Weyl on Causality in Physics</i>
 </summary>
@@ -262,6 +263,7 @@ Presented at the International Conference: _Phenomenological Approaches to Physi
 Presented at the 2nd International Conference in Philosophy of Mind, University of Minho, Braga, Portugal
 
 </details>
+
 <details>
 <summary> 2016-07-02: <i>Husserl and Carnap: Constitutional Systems and Theories of Meaning</i>
 </summary>
