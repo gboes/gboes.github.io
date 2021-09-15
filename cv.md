@@ -207,7 +207,7 @@ First Austrian Summer School in Phenomenology, Graz, Austria (online) ([slides](
 
 
 <details>
-<summary> 2021-09-08: (K. Rachlitz and B. Großmann-Hensel) <i>Comparative Functional Analysis as a Cultivation of the Attitude of Wonder</i></summary>
+<summary> 2021-09-08: (with K. Rachlitz and B. Großmann-Hensel) <i>Comparative Functional Analysis as a Cultivation of the Attitude of Wonder</i></summary>
 
 ---
 
