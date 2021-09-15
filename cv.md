@@ -170,11 +170,31 @@ Tutor and Research Tutor for two seminars on “Edmund Husserl: Logical Investig
 
 
 <details>
-<summary> 2021-09-22: <i>Husserl's Notion of Truth and Verificationist Theories of Meaning</i></summary>
+<summary> 2022-01-15: <i>Le germe de transcendentalisme dans les </i> Recherches Logiques <i> : La connaissabilité des faits </i> </summary>
 
 ---
 
+[The origin of transcendentalism in the Logical Investigations: the knowability of facts],
+Young Researchers seminar, University of Paris 1, Panthéon-Sorbonne, France
+</details>
+
+<details>
+
+<details>
+<summary> 2021-09-22: <i>Husserls Wahrheitsbegriff und verifikationistische Theorien der Bedeutung</i></summary>
+
+---
+
+[Husserl's notion of truth and verificationist theories of meaning],
 German Phenomenological Society (DGPF) Doctoral Colloquium, Jena, Germany
+</details>
+
+<details>
+<summary> 2021-09-11: <i>Can Husserl's Notion of Truth Sustain Metaphysical Realism?</i></summary>
+
+---
+
+SoPhiA Conference for Young Analytic Philosophy, Salzburg, Austria (online)
 </details>
 
 <details>
@@ -184,14 +204,6 @@ German Phenomenological Society (DGPF) Doctoral Colloquium, Jena, Germany
 
 First Austrian Summer School in Phenomenology, Graz, Austria (online)
 
-</details>
-
-<details>
-<summary> 2021-09-10: <i>Can Husserl's Notion of Truth Sustain Metaphysical Realism?</i></summary>
-
----
-
-SoPhiA Conference for Young Analytic Philosophy, Salzburg, Austria
 </details>
 
 
