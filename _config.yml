@@ -6,7 +6,11 @@ email: gregor.boes@kcl.ac.uk
 # url:                 https://gboes.github.io
 url:                  https://gregorboes.com
 baseurl:             ''
+# markdown: CommonMarkGhPages
 markdown: CommonMarkGhPages
+commonmark:
+  options: ["SMART", "FOOTNOTES", "UNSAFE"]
+
 exclude:
  - README.md
 
