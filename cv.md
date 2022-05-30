@@ -166,7 +166,35 @@ Tutor and Research Tutor for two seminars on “Edmund Husserl: Logical Investig
 </details>
 <p></p>
 
+## Publications
+<details>
+<summary> Boes, Gregor. 'Rare Encounters: Wiltsche and Berghofer's     <i>Phenomenological Approaches to Physics</i>'. <i>Husserl Studies<i>, forthcoming. </summary>
+
+---
+
+book review, peer-reviewed, 5,300 words
+</details>
+
+
+<details>
+<summary> Boes, Gregor. 'Review of Emiliano Trizio: Philosophy's Nature. Husserl's Phenomenology, Natural Science, and Metaphysics'. <i>Phenomenological Reviews<i>, forthcoming. </summary>
+
+---
+
+book review, invited by the journal, 5,000 words
+</details>
+
+
+
 ## Research Presentations <small>peer reviewed</small>
+
+<details>
+<summary> 2022-09-15: <i>Cutting Diamonds: The Modal Shift in Husserl's Correlationism </i> </summary>
+
+---
+
+GAP11 Triannual Conference of the German Society for Analytic Philosophy, Humboldt-Universität zu Berlin, Germany
+</details>
 
 
 <details>
