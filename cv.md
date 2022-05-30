@@ -15,15 +15,17 @@ This could probably be made more useful with a CSS styling
 -->
 
 # Academic CV
+
 <p>
 My research interests mostly relate in some way or other to the question, what significance we can attach to the manifest image, and what a phenomenological philosophy of natural science should look like. </p>
-
 
 _click on entries to expand details_
 <!-- ## Area of Specialization
 ## Area of Competence -->
 
 ## Education
+
+
 <details>
 <summary><b>2018 &ndash; currently: PhD candidate, King's College London</b>
 </summary>
@@ -96,6 +98,7 @@ Abitur in Baden-Württemberg (best of 123 graduates). Core subjects: physics, fi
 <p></p>
 
 ## Employment
+
 <details>
 <summary>2019-09 &ndash; currently: King's College London
 </summary>
@@ -167,6 +170,7 @@ Tutor and Research Tutor for two seminars on “Edmund Husserl: Logical Investig
 <p></p>
 
 ## Publications
+
 <details>
 <summary> Boes, Gregor. 'Rare Encounters: Wiltsche and Berghofer's     <i>Phenomenological Approaches to Physics</i>'. <i>Husserl Studies</i>, forthcoming. </summary>
 
