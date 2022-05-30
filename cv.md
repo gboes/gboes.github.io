@@ -168,7 +168,7 @@ Tutor and Research Tutor for two seminars on “Edmund Husserl: Logical Investig
 
 ## Publications
 <details>
-<summary> Boes, Gregor. 'Rare Encounters: Wiltsche and Berghofer's     <i>Phenomenological Approaches to Physics</i>'. <i>Husserl Studies<i>, forthcoming. </summary>
+<summary> Boes, Gregor. 'Rare Encounters: Wiltsche and Berghofer's     <i>Phenomenological Approaches to Physics</i>'. <i>Husserl Studies</i>, forthcoming. </summary>
 
 ---
 
@@ -177,7 +177,7 @@ book review, peer-reviewed, 5,300 words
 
 
 <details>
-<summary> Boes, Gregor. 'Review of Emiliano Trizio: Philosophy's Nature. Husserl's Phenomenology, Natural Science, and Metaphysics'. <i>Phenomenological Reviews<i>, forthcoming. </summary>
+<summary> Boes, Gregor. 'Review of Emiliano Trizio: Philosophy's Nature. Husserl's Phenomenology, Natural Science, and Metaphysics'. <i>Phenomenological Reviews</i>, forthcoming. </summary>
 
 ---
 
