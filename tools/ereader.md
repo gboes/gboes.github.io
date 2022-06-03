@@ -125,7 +125,7 @@ One of the annoyances with Onyx is that they do not apply the screen protector i
 I was tempted to just skip the protector altogether, but I have to emphasize how glad I am about applying it. Besides protecting the screen from scratches, it changes the writing feel. But most importantly, it makes for a more diffuse reflection - the blank eInk display is decidedly more shiny than paper, and this was the main thing that initially curbed my enthusiasm.
 
 Here is my unsolicited advice on applying the protector:
-- find a dust free environment. Forum advice has it that the steamy air in a bathroom works well, and that's what I followed. But I don't know if my relative success was due o this.
+- find a dust free environment. Forum advice has it that the steamy air in a bathroom works well, and that's what I followed. But I don't know if this was the cause of my relative success.
 - Really clean the tablet surface - with alcohol - before applying the screen protector. Don't wipe it dry with a paper towel, that will leave dust on the surface.
 - trim the edges before applying. The protector has exactly the same size as the screen plus bezel, but it is hard to fit exactly. If the protector stands off from the bezel, it will easily peel off. With a slightly trimmed protector, application becomes more forgiving, at the price of leaving some of the bezel unprotected, which really does not matter.
 
@@ -171,7 +171,7 @@ I am writing a lot of negative things here, so I should maybe reiterate: you can
 - Onyx releases a lot of new devices in quick succession, probably at the expense of long-term support for their devices. I would not bet on the Max 3 receiving software updates in 3 years. That said, it runs fine with the latest firmware I installed in January 2021 and I don't expect to need to make any changes really.
 
 ## Bonus: emacs via Termux
-The Max 3 also supports termux, which gives access to a command line with a lot of open source tools.  I managed to installed doom emacs (my writing and notetaking environment), so I could do distraction free, battery unconstrained writing on the eReader. So far, I am not using this - for small snippets, like the draft of a paragraph, synchronization is much simpler if you just write it in Google Keep for example. But in principle, the writing process could be moved to the eInk screen as well. And for somebody who is planning a DIY eInk project, termux with the whole battery of terminal tools (like git, rsync, ...) could be interesting.
+The Max 3 also supports termux, which gives access to a command line with a lot of open source tools.  I managed to install doom emacs (my writing and notetaking environment), so I could do distraction free, battery unconstrained writing on the eReader. So far, I am not using this - for small snippets, like the draft of a paragraph, synchronization is much simpler if you just write it in Google Keep for example. But in principle, the writing process could be moved to the eInk screen as well. And for somebody who is planning a DIY eInk project, termux with the whole battery of terminal tools (like git, rsync, ...) could be interesting.
 <p align="center">
 <iframe width="360" height="640" src="https://www.youtube.com/embed/45dnxoKx8F4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
