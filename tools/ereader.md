@@ -2,7 +2,7 @@
 title: digital paper - eInk for focused reading and writing
 layout: default
 permalink: /tools/ereader
-description: This little article describes how I use a Boox Max 3 in conjunction with Zotero for reading, annotating, and synchronizing a digital library (mostly pdfs). The setup also has great potential for writing and note taking, both by longhand and typing.
+description: This article describes how I use a Boox Max 3 ereader with Zotero for reading, annotating, and synchronizing a digital library of pdf and epub documents. The setup also works for distraction free writing and note taking, both by typing or longhand.
 ---
 
 # Like paper, but digital &ndash; an eInk solution for focused reading and writing

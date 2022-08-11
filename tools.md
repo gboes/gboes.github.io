@@ -2,19 +2,19 @@
 title: Digital Tools
 layout: default
 permalink: /tools/
-description: A collection of digital tools that I found (at least at some point) useful for my academic work. If time permits, I provide a more detailed article.
+description: A collection of digital tools that I found (at least at some point) useful for my academic work.
 ---
 
-> Here I collect digital tools that I found (at least at some point) useful for my academic work. If time permits, or somebody lures me into [structured procrastination](http://www.structuredprocrastination.com/), I provide a more detailed article.
+> Here I collect digital tools that I found (at least at some point) useful for my academic work. Let me know if you would like to read about something in more detail, and I will update as time permits.
 
 ## Why?
-While there were good support classes offered for physics students, I did not find much material on digital tools for philosophers. While studying in Tokyo, I took a class in digital humanities, but that resulted only in using a proprietary XML editor to tag a document by hand. This produced little insight and solved no problem I ever had, although I understand it might be relevant for scholars preparing digital editions of manuscripts. A digital humanities class I took in London was a little better, but had no great payoff either. 
-In Cambridge there was at least a mention of the open-source bibliography manager Zotero, and eventually some academics recommended Scrivener as a writing environment. But nobody could help for example with adapting a Zotero citation style to support shorthands, which were quite common in my field at least. It still seems that for learning about digital tools, there is little on offer, and I suspect the situation in disciplines other than philosophy is similar. I almost certainly spent more time on methodological considerations than I should have, but I think of myself as slowly reaping a dividend for this time investment. Maybe I can help others to get there more quickly. 
+While there were good support classes offered for physics students, I did not find much material on digital tools for philosophers. While studying in Tokyo, I took a class in digital humanities, but that resulted only in using a proprietary XML editor to tag a document by hand. While this kept students busy for a semester, it produced little insight and solved no problem I ever encountered when doing my research, although I understand its relevance in preparing digital editions of manuscripts. A digital humanities class I took in London was a little better, but had no great payoff either and remained quite basic. 
+In Cambridge, people had at least heard of Zotero, and eventually some academics recommended Scrivener as a writing environment. But nobody knew, for example how to get Zotero to cite with shorthands for classical works. In brief, I was a bit surprised at how little material there was on offer for learning about digital tools. In consequence, I certainly spent more time on methodological considerations than I should have, but I do find myself reaping dividends from this time investment more and more. Maybe I can help others to get there more quickly and with fewer deadends. 
 
 ## Reference Management
 The tools I have adopted differ enormously in terms of complexity and payoff. 
-The lowest hanging fruit is to use **Zotero** as a reference and file manager. If you don't do that yet, stop reading and set it up right now, I cannot see how you could regret it. (tutorials for setting up zotero and zotfile have been around for a while, like [this one](https://gettingthingstech.com/zotero-workflow-zotfile/))
-
+The lowest hanging fruit is to use **Zotero** as a reference and file manager. If you are not using a reference manager yet, stop reading and set it up right now, it is impossible to see how you could regret it. (tutorials for setting up zotero and zotfile have been around for a while, like [this one](https://gettingthingstech.com/zotero-workflow-zotfile/))
+I recommend Zotero because it is open source, has an active community, and operates well with Word, Libre Office, and LaTeX workflows. Via zotfile, it is also a powerful solution for managing pdf and ebook collections. 
 
 ## eReading / Digital Paper
 The next most useful thing I established is probably my **e-reading and note taking setup**. This is also a tool on which I did not find much information (and even a little disinformation) on. It's a new market, so there's also a lot of videos around that in my view oversell what eReaders can currently do. But after a lot of research and trial and error, I have found a setup that I am happy with. I found it especially helpful for regaining some longer-attention span, slow-thinking time that is so crucial for philosophy. 

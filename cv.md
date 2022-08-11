@@ -2,7 +2,7 @@
 layout: default
 title: Academic CV
 permalink: /cv/
-description: Academic CV of Gregor Bös, philosophy PhD Student at King's College London.
+description: Academic CV of Gregor Bös
 ---
 
 <!--
@@ -11,13 +11,13 @@ Template is:
 <summary>
 </summary>
 </details>
-This could probably be made more useful with a CSS styling
+Custom CSS styling could make this more useful.
 -->
 
 # Academic CV
 
 <p>
-My research interests mostly relate in some way or other to the question, what significance we can attach to the manifest image, and what a phenomenological philosophy of natural science should look like. </p>
+My philosophical research interests gravitate around the question what a phenomenological philosophy of natural science should look like.</p>
 
 _click on entries to expand details_
 <!-- ## Area of Specialization
@@ -312,16 +312,15 @@ International Undergraduate Conference in Analytic Philosophy at Bayreuth Univer
 <details>
 <summary> Scholarships and Awards
 </summary>
-
+- 2021 &ndash; 2022:  King's College London Scholarship of the Department of Philosophy Postgraduate Bursary
 - 2020: King's College London Global Research Grant. Supporting a Research Stay at the [Centre for Subjectivity Research](https://www.cfs.ku.dk), University of Copenhagen
 - 2018 &ndash; 2021: King's College London Faculty of Arts and Humanities: Full PhD Scholarship
-- 2012 &ndash; 2018: National Academic Merit Foundation (Studienstiftung)
-- 2016 &ndash; 2017: DAAD Graduate Study Abroad Scholarship
+- 2012 &ndash; 2018: Scholarship of the German National Academic Merit Foundation (Studienstiftung)
+- 2016 &ndash; 2017: DAAD Graduate Scholarship
 - 2014 &ndash; 2015: Full Scholarship of the Japanese Student Service Organisation (JASSO)
 - 05/2015: "Green Stories" Project Scholarship for a reportage on the life in Fukushima prefecture, article published in German [here](https://www.lizzynet.de/wws/ein-vergifteter-name.php?sid=54339215369202175156525552555960) and in [Novo Argumente](https://www.novo-argumente.com/artikel/fukushima_ein_vergifteter_name)
 - 03/2014: Project Scholarship from the German-French Youth Organisation: _This is art. Can we trash it?_ On the administration of artists' heritages. Sojourn in Paris
 - Jean-Walter prize of the zis-foundation for the reportage: _The philosophy of physicists. Fundamental Research and Multicultural Context at CERN_, previously project scholarship
-
 </details>
 
 
@@ -332,7 +331,7 @@ International Undergraduate Conference in Analytic Philosophy at Bayreuth Univer
 - German: Mother Tongue
 - English: C2 certified
 - French: Competent (ca. C1)
-- Japanese: Basic (ca. A2 / JLPT N3)
+- Japanese: Basic (ca. B1 / JLPT N3)
 - Spanish: Basic (ca. A2)
 
 </details>
@@ -341,14 +340,13 @@ International Undergraduate Conference in Analytic Philosophy at Bayreuth Univer
 <summary> Other Skills
 </summary>
 
-- Programming (Python: pandas, scikit-learn; LaTeX; basic Octave; HPC computing on LSE's _fabian_ and QMUL's _Apocrita_ clusters)
-- Coursera Certificate _Machine Learning_ with Andrew Ng (verified)
+- A palette of Programming skills (Python: scikit-learn, pandas; elisp; LaTeX;  High performance computation on LSE's _fabian_ and QMUL's _Apocrita_ clusters; Linux environments, Jekyll, Wordpress,)
+- Coursera Certificate _Machine Learning_ 
 - Photography and Film Editing, basic WordPress knowledge
 </details>
 
 <details>
 <summary> Social Engagement
 </summary>
-
-- Steering committee member and mentor for the [zis-foundation](https://www.zis-reisen.de/en/) (est. 1956) which offers scholarships to youth aged 16-21 to realize educational travel projects
+- Steering committee member (since 2019) and mentor (since 2015) for the [zis-foundation](https://www.zis-reisen.de/en/) (est. 1956) which offers scholarships to youth aged 16-21 to realize educational travel projects
 </details>
