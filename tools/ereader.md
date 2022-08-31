@@ -5,7 +5,7 @@ permalink: /tools/ereader
 description: This article describes how I use a Boox Max 3 ereader with Zotero for reading, annotating, and synchronizing a digital library of pdf and epub documents. The setup also works for distraction free writing and note taking, both by typing or longhand.
 ---
 
-# Like paper, but digital &ndash; an eInk solution for focused reading and writing
+# Like paper, but digital &mdash; an eInk solution for focused reading and writing
 
 > This little article describes how I use a Boox Max 3 in conjunction with Zotero for reading, annotating, and synchronizing a digital library (mostly pdfs). 
 > TL;DR: For some years, I could not achieve an entirely digital workflow for reading and writing. Now I have moved to a setup centred around the Boox Max 3, and I am for the first time very happy with my solution. Things I like: less eyestrain, consistent digital annotations, fewer distractions, great mobility, being able to work outside, with much of the haptics of working on paper. The setup also has great potential for writing and note taking, both by longhand and typing.
@@ -56,12 +56,12 @@ There might be other digital setups that work well. If you do not encounter any 
 
 I thought about this for a long time -- the reason that I am writing now is that I think I cracked it. My current solution to these problems centres around a device by a Chinese company called Onyx, the Boox Max 3. It is a 13" (ca. A4) eInk tablet that runs Android 9.0, exactly the same operating system that runs a lot of phones and some conventional tablets. I bought my first eReader in 2010, and tried to build this setup since at least 2014, when I invested a scholarship into a Boox M96. That ultimately failed, and likewise did later attempts to achieve this with a Kindle. But in late 2020, I wanted to give it another shot (because what do you do in a pandemic?) and I got my hands on a reMarkable 2 eInk tablet. That didn't work either, but I realized that Onyx had considerably improved their devices. Begrudgingly I decided to give them another shot (it was Christmas after all), and to my amazement, it finally works. 
 
-As you can probably tell, this is not an advertisement for Onyx, and I am not sponsored them nor anyone else. My experience with the M96 made me reluctant to ever buy from them again, and I don't think they are a particular nice company &ndash; more on that below. But in the end I am just glad I can finally do what I wanted all along. If this article is useful to somebody who wants to rethink the way they consume or create text, that is all I want to achieve. More incidentally, that the [Max 3 supports Termux](#bonus-emacs-via-termux) might also be interesting to coders or people who could use an eInk screen in a DIY project.
+As you can probably tell, this is not an advertisement for Onyx, and I am not sponsored them nor anyone else. My experience with the M96 made me reluctant to ever buy from them again, and I don't think they are a particular nice company &mdash; more on that below. But in the end I am just glad I can finally do what I wanted all along. If this article is useful to somebody who wants to rethink the way they consume or create text, that is all I want to achieve. More incidentally, that the [Max 3 supports Termux](#bonus-emacs-via-termux) might also be interesting to coders or people who could use an eInk screen in a DIY project.
 
 ## Basics: eInk
 If you already know what eInk is, just [skip this section](#the-boox-max-3---and-its-price-drop). eInk screens have been around for a while, mainly popularized through Amazon's Kindle. What I am describing here is centred around a device that uses the same technology, but unlike the Kindle, is not part of a book retail ecosystem.
 
-The most common computer screens are backlit: that means they have an approximately uniform light source that is then manipulated to yield what you see on a screen. By digitally controlling how much of the uniform backlight is filtered out (e.g. using liquid crystals), the image on a screen can change. These changes can happen extremely fast &ndash; images can be redrawn hundreds of times per second. But without the backlight, the screen remains black.
+The most common computer screens are backlit: that means they have an approximately uniform light source that is then manipulated to yield what you see on a screen. By digitally controlling how much of the uniform backlight is filtered out (e.g. using liquid crystals), the image on a screen can change. These changes can happen extremely fast &mdash; images can be redrawn hundreds of times per second. But without the backlight, the screen remains black.
 
 An eInk display, on the other hand, does not use a backlight. It rearranges "digital ink particles" that just reflect whatever light hits the screen, like toner or ink paper would. At least for my reading experience, this makes a significant difference. You are not looking into a light source. A situation where this difference becomes obvious is when you take the screen outside, for example to read on a park bench. On a sunny day, it will be hard to read on most laptop screens, but no issue at all with an ereader, where the reflected sunlight is not competing with a backlight. Not having a backlight also means that you do not need power to keep your images alive: the screen only draws power to change what it displays. 
 
@@ -95,7 +95,7 @@ Much of the setup relies on the freedom to install arbitrary applications from t
 File synchronization works via AutoSync for Google Drive. I use this to synchronize my pdf library, which I organize with Zotero and its zotfile plugin: it is a simple folder with a good number of files named "AuthorYear_Title.pdf". I am very happy with this setup and it I could move it to a different device or operating system in a flash. 
 
 I always found it helpful to print and read an in progress draft. The physical change in interaction really helps me to get fresh eyes on what I have written, and it stops getting distracted by small formatting changes. I guess I will keep printing my drafts now and then, but using the reader to the same end seemed to work as well. This is why, besides the Zotero folder, I also synchronize a temporary folder. 
-I have defined a tiny bash function (I am using WSL1), that copies an arbitrary file into that location &ndash; maybe useful for somebody:
+I have defined a tiny bash function (I am using WSL1), that copies an arbitrary file into that location &mdash; maybe useful for somebody:
 ```
 # define environment variable:
 export BOOXTEMP="/mnt/d/your/path/to/cloud/boox/temp/"
@@ -156,7 +156,7 @@ I have tried the reMarkable 2 and returned it before getting the Max 3. My main 
 - tedious pdf navigation
 - pdf annotations are in a bitmap layer
 
-I think it is a nicely designed device with good hardware, and much better marketing than Onyx. The return was fine as well, I don't know if that would be more complicated for Onyx &ndash; so if you are on the fence whether eInk is for you at all, and might be more interested in writing than reading, the reMarkable 2 might be worth a shot.
+I think it is a nicely designed device with good hardware, and much better marketing than Onyx. The return was fine as well, I don't know if that would be more complicated for Onyx &mdash; so if you are on the fence whether eInk is for you at all, and might be more interested in writing than reading, the reMarkable 2 might be worth a shot.
 
 ## Anticipating disappointments
 I am writing a lot of negative things here, so I should maybe reiterate: you can take _all_ your books with you, into the park, and read in the sun while nothing disturbs your peaceful philosophical thinking! It is a dream and I love it. But there are a already a number of youtube channels that already give their best to create a hype for eReaders. Let me focus on some warnings instead.
