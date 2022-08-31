@@ -9,4 +9,4 @@ I am a PhD student at the philosophy department of King's College London. My phi
 
 This site holds an [academic CV](./cv/) and a [download](./dl/) section with slides from presentations. I am also occasionally describing some of the research [tools](./tools/), for which I found it harder to find information &ndash; starting with a setup for reading and annotating academic literature with an Android based [eInk tablet](./tools/ereader "Like paper but digital - an eInk solution for focused reading and writing").
 
-<p> I am always glad to collaborate, discuss philosophy or my work for the [zis foundation](https://zis-reisen.de/en "zis foundation") &ndash; just send me an <a href="mailto:mail@gregorboes.com">email</a>!
+<p> I am always glad to collaborate, discuss philosophy or the brilliant work of the <a href="https://zis-reisen.de/en">zis foundation</a>  &mdash; just send me an <a href="mailto:mail@gregorboes.com">email</a>!
