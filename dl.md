@@ -11,6 +11,15 @@ description: Downloads offered on the academic website of Gregor Bös / Bos / Bo
 
 ## Presentations
 <details>
+<summary> 2022-09-15: <i>Cutting Diamonds. The Modal Shift in Husserl's Correlationism</i></summary>
+
+---
+
+GAP 11, national conference of the German Society for Analytic Philosophy, Humboldt-Universität zu Berlin, Germany ([slides](/dl/2022-09-15-Berlin.pdf))
+</details>
+
+
+<details>
 <summary> 2022-01-15: <i>The Germ of Transcendentalism in the Logical Investigations: the Knowability of States of Affairs</i></summary>
 
 ---
