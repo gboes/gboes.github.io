@@ -16,23 +16,38 @@ Custom CSS styling could make this more useful.
 
 # Academic CV
 
-<p>
-My philosophical research interests gravitate around the question what a phenomenological philosophy of natural science should look like.</p>
+<p>Most of my philosophical research originate from the question what a phenomenological philosophy of natural science should look like.</p>
 
 _click on entries to expand details_
 <!-- ## Area of Specialization
 ## Area of Competence -->
 
+## Academic Employment
+
+
+<details>
+<summary>2022-12 &ndash; currently: Katholieke Universiteit Leuven
+</summary>
+
+Postdoctoral Researcher. Promotors: Julia Jansen, Jan Heylen.
+
+</details>
+
+
+
 ## Education
 
 
 <details>
-<summary><b>2018 &ndash; currently: PhD candidate, King's College London</b>
+<summary>2018 &ndash; 2022: PhD, King's College London
 </summary>
 
-Research Topic:_The Phenomenological Lifeworld as a Foundation of Natural Science_
+Research Topic:_Founding Science on the Lifeworld.
+Promises and Problems of a Phenomenological Philosophy of Natural Science_
 
 Primary Supervisor: Mark Textor
+
+Examiners: Julia Jansen (Leuven), Steven French (Leeds)
 
 
 </details>
@@ -100,18 +115,18 @@ Abitur in Baden-Württemberg (best of 123 graduates). Core subjects: physics, fi
 ## Employment
 
 <details>
-<summary>2019-09 &ndash; currently: King's College London
+<summary>2019-09 &ndash; 2022: King's College London
 </summary>
 
 Graduate Teaching Assistant for the modules:
-- Belief and Decision Under Uncertainty x2 (Prof. Alexander Bird)
-- Methodology x2 (Prof. Julien Dutant, Prof. Clayton Littlejohn)
-- Ethics and Politics of Science and Technology (Dr. Matteo Mameli)
-- Neuroscience and the Mind (Dr. Adrian Alsmith, summative assessment only)
+- Belief and Decision Under Uncertainty x2 (Alexander Bird)
+- Methodology x2 (Julien Dutant, Clayton Littlejohn)
+- Ethics and Politics of Science and Technology (Matteo Mameli)
+- Neuroscience and the Mind (Adrian Alsmith, summative assessment only)
 </details>
 
 <details>
-<summary>2020-06 &ndash; currently: King's College London, Sowerby Project
+<summary>2020-06 &ndash; 2021-09: King's College London, Sowerby Project
 </summary>
 
 Project Assistant for the [Peter Sowerby Philosophy of Medicine Project](https://www.philosophyandmedicine.org)
@@ -172,7 +187,7 @@ Tutor and Research Tutor for two seminars on “Edmund Husserl: Logical Investig
 ## Publications
 
 <details>
-<summary> Boes, Gregor. 'Rare Encounters: Wiltsche and Berghofer's     <i>Phenomenological Approaches to Physics</i>'. <i>Husserl Studies</i>, forthcoming. </summary>
+<summary> Bös, Gregor. 'Rare Encounters: Wiltsche and Berghofer's <i>Phenomenological Approaches to Physics</i>'. <i>Husserl Studies</i>, forthcoming. </summary>
 
 ---
 
@@ -181,7 +196,7 @@ book review, peer-reviewed, 5,300 words
 
 
 <details>
-<summary> Boes, Gregor. 'Review of Emiliano Trizio: Philosophy's Nature. Husserl's Phenomenology, Natural Science, and Metaphysics'. <i>Phenomenological Reviews</i>, forthcoming. </summary>
+<summary> Bös, Gregor. 'Review of Emiliano Trizio: Philosophy's Nature. Husserl's Phenomenology, Natural Science, and Metaphysics'. <i>Phenomenological Reviews</i>, forthcoming. </summary>
 
 ---
 
