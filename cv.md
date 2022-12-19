@@ -22,14 +22,14 @@ _click on entries to expand details_
 <!-- ## Area of Specialization
 ## Area of Competence -->
 
-## Academic Employment
+## Research Employment
 
 
 <details>
 <summary>2022-12 &ndash; currently: Katholieke Universiteit Leuven
 </summary>
 
-Postdoctoral Researcher. Promotors: Julia Jansen, Jan Heylen.
+Postdoctoral Researcher for the project _Phenomenology and the Scientific Image of the World_ (Postdoctoral Mandate 3H220352).  Promotors: Julia Jansen, Jan Heylen.
 
 </details>
 
