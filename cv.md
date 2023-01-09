@@ -16,7 +16,7 @@ Custom CSS styling could make this more useful.
 
 # Academic CV
 
-<p>Most of my philosophical research originate from the question what a phenomenological philosophy of natural science should look like.</p>
+<p>Most of my philosophical research originates from the question what a phenomenological philosophy of natural science should look like.</p>
 
 _click on entries to expand details_
 <!-- ## Area of Specialization
@@ -29,7 +29,9 @@ _click on entries to expand details_
 <summary>2022-12 &ndash; currently: Katholieke Universiteit Leuven
 </summary>
 
-Postdoctoral Researcher for the project _Phenomenology and the Scientific Image of the World_ (Postdoctoral Mandate 3H220352).  Promotors: Julia Jansen, Jan Heylen.
+Postdoctoral Researcher for the project _Phenomenology and the Scientific Image of the World_ (Postdoctoral Mandate 3H220352).  
+
+Promotors: Julia Jansen, Jan Heylen.
 
 </details>
 
@@ -42,7 +44,7 @@ Postdoctoral Researcher for the project _Phenomenology and the Scientific Image 
 <summary>2018 &ndash; 2022: PhD, King's College London
 </summary>
 
-Research Topic:_Founding Science on the Lifeworld.
+Research Topic: _Founding Science on the Lifeworld.
 Promises and Problems of a Phenomenological Philosophy of Natural Science_
 
 Primary Supervisor: Mark Textor
@@ -206,6 +208,16 @@ book review, invited by the journal, 5,000 words
 
 
 ## Research Presentations <small>peer reviewed</small>
+
+<details>
+<summary> 2023-01-27: <i>Husserl on the Scope of Symbolic Representation </i> </summary>
+
+---
+
+Phenomenology and Symbolic Cognition Workshop, Rijksuniversiteit Groningen, Netherlands
+</details>
+
+
 
 <details>
 <summary> 2022-09-15: <i>Cutting Diamonds: The Modal Shift in Husserl's Correlationism </i> </summary>
