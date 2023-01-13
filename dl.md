@@ -5,8 +5,10 @@ permalink: /dl/
 description: Downloads offered on the academic website of Gregor Bös / Bos / Boes.
 ---
 
-## Drafts
-- [How research evaluations can damage scientific quality: 23 years of evidence from the UK Research Excellence Framework](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3083692) with Moqi Groen-Xu, Pedro Teixeira, Thomas Voigt, and Bernhard Knapp; under review.
+## Publications
+3. Moqi Groen-Xu, Gregor Bös, Pedro Teixeira, Thomas Voigt, and Bernhard Knapp: _Short-term Incentives of Research Evaluations: Evidence from the UK Research Excellence Framework_, forthcoming at _Research Policy_. https://doi.org/10.2139/ssrn.3083692  
+2. Bös, Gregor. 2022. ‘Rare Encounters: Wiltsche and Berghofer’s Phenomenological Approaches to Physics’. Husserl Studies. https://doi.org/10.1007/s10743-022-09307-3. (peer reviewed book-review, 5,300 words)
+1. Bös, Gregor. 2022. ‘Review of Emiliano Trizio: Philosophy’s Nature. Husserl’s Phenomenology, Natural Science, and Metaphysics’, Phenomenological Reviews. ([online](https://reviews.ophen.org/2022/10/30/emiliano-trizio-philosophys-nature-husserl-review/), invited book review, 5,000 words)
 
 
 ## Presentations
