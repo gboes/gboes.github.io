@@ -209,6 +209,25 @@ book review, invited by the journal, 5,000 words
 
 ## Research Presentations <small>peer reviewed</small>
 
+
+<details>
+<summary> 2023-07-04: <i>Moore's Paradox in Husserlian Semantics </i> </summary>
+
+---
+
+97th Joint Session of the Aristotelian Society and the Mind Association, Birkbeck and the Institute of Philosophy, University of London, UK
+</details>
+
+<details>
+<summary> 2023-06-06: <i>The Knowability Thesis in Husserlian Phenomenology </i> </summary>
+
+---
+
+Workshop on the Concept and Scope of Knowability, Katholieke Universiteit Leuven
+</details>
+
+<details>
+
 <details>
 <summary> 2023-01-27: <i>Husserl on the Scope of Symbolic Representation </i> </summary>
 
