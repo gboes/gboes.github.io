@@ -189,7 +189,28 @@ Tutor and Research Tutor for two seminars on “Edmund Husserl: Logical Investig
 ## Publications
 
 <details>
-<summary> Bös, Gregor. 'Rare Encounters: Wiltsche and Berghofer's <i>Phenomenological Approaches to Physics</i>'. <i>Husserl Studies</i>, forthcoming. </summary>
+<summary>
+Bös, Gregor. forthcoming. ‘Review of Jörg Noller: Digitalität. Zur Philosophie der digitalen Lebenswelt’, _Phenomenological Reviews_.
+</summary>
+
+book review, invited by the journal, 2,100 words.
+
+</details>
+
+
+<details>
+<summary>
+Groen-Xu, Moqi, __Gregor Bös__, Pedro A. Teixeira, Thomas Voigt, and Bernhard Knapp. 2023. ‘Short-term Incentives of Research Evaluations: Evidence from the UK Research Excellence Framework’, <i>Research Policy</i>, 53(6) https://doi.org/10.1016/j.respol.2023.104729
+</summary>
+
+Empirical study of the publication and citation behaviour of UK scientists of all disciplines over 23 years. I wrote the software to match databases and aggregate observables, helped to interpret the findings and contributed to the writing of the article.
+
+</details>
+
+
+
+<details>
+<summary> Bös, Gregor. 'Rare Encounters: Wiltsche and Berghofer's <i>Phenomenological Approaches to Physics</i>'. <i>Husserl Studies</i>, https://doi.org/10.1007/s10743-022-09307-3 . </summary>
 
 ---
 
@@ -198,7 +219,7 @@ book review, peer-reviewed, 5,300 words
 
 
 <details>
-<summary> Bös, Gregor. 'Review of Emiliano Trizio: Philosophy's Nature. Husserl's Phenomenology, Natural Science, and Metaphysics'. <i>Phenomenological Reviews</i>, forthcoming. </summary>
+<summary> Bös, Gregor. 2022. 'Review of Emiliano Trizio: Philosophy's Nature. Husserl's Phenomenology, Natural Science, and Metaphysics'. <i>Phenomenological Reviews</i>, [online](https://reviews.ophen.org/2022/10/30/emiliano-trizio-philosophys-nature-husserl-review/) </summary>
 
 ---
 
