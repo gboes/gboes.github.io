@@ -200,7 +200,7 @@ book review, invited by the journal, 2,100 words.
 
 <details>
 <summary>
-Groen-Xu, Moqi, __Gregor Bös__, Pedro A. Teixeira, Thomas Voigt, and Bernhard Knapp. 2023. ‘Short-term Incentives of Research Evaluations: Evidence from the UK Research Excellence Framework’, <i>Research Policy</i>, 53(6) https://doi.org/10.1016/j.respol.2023.104729
+Groen-Xu, Moqi, __Gregor Bös__, Pedro A. Teixeira, Thomas Voigt, and Bernhard Knapp. 2023. ‘Short-term Incentives of Research Evaluations: Evidence from the UK Research Excellence Framework’, <i>Research Policy</i>, 53(6), <a href="https://doi.org/10.1016/j.respol.2023.104729">doi</a>  
 </summary>
 
 Empirical study of the publication and citation behaviour of UK scientists of all disciplines over 23 years. I wrote the software to match databases and aggregate observables, helped to interpret the findings and contributed to the writing of the article.
@@ -210,7 +210,7 @@ Empirical study of the publication and citation behaviour of UK scientists of al
 
 
 <details>
-<summary> Bös, Gregor. 'Rare Encounters: Wiltsche and Berghofer's <i>Phenomenological Approaches to Physics</i>'. <i>Husserl Studies</i>, https://doi.org/10.1007/s10743-022-09307-3 . </summary>
+<summary> Bös, Gregor. 'Rare Encounters: Wiltsche and Berghofer's <i>Phenomenological Approaches to Physics</i>'. <i>Husserl Studies</i>, <a href="https://doi.org/10.1007/s10743-022-09307-3">doi</a>. </summary>
 
 ---
 
@@ -219,7 +219,7 @@ book review, peer-reviewed, 5,300 words
 
 
 <details>
-<summary> Bös, Gregor. 2022. 'Review of Emiliano Trizio: Philosophy's Nature. Husserl's Phenomenology, Natural Science, and Metaphysics'. <i>Phenomenological Reviews</i>, [online](https://reviews.ophen.org/2022/10/30/emiliano-trizio-philosophys-nature-husserl-review/) </summary>
+<summary> Bös, Gregor. 2022. 'Review of Emiliano Trizio: Philosophy's Nature. Husserl's Phenomenology, Natural Science, and Metaphysics'. <i>Phenomenological Reviews</i>, <a href="https://reviews.ophen.org/2022/10/30/emiliano-trizio-philosophys-nature-husserl-review/">online</a>) </summary>
 
 ---
 
@@ -239,6 +239,7 @@ book review, invited by the journal, 5,000 words
 97th Joint Session of the Aristotelian Society and the Mind Association, Birkbeck and the Institute of Philosophy, University of London, UK
 </details>
 
+
 <details>
 <summary> 2023-06-06: <i>The Knowability Thesis in Husserlian Phenomenology </i> </summary>
 
@@ -247,7 +248,6 @@ book review, invited by the journal, 5,000 words
 Workshop on the Concept and Scope of Knowability, Katholieke Universiteit Leuven
 </details>
 
-<details>
 
 <details>
 <summary> 2023-01-27: <i>Husserl on the Scope of Symbolic Representation </i> </summary>
