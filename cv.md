@@ -190,7 +190,7 @@ Tutor and Research Tutor for two seminars on “Edmund Husserl: Logical Investig
 
 <details>
 <summary>
-Bös, Gregor. forthcoming. ‘Review of Jörg Noller: Digitalität. Zur Philosophie der digitalen Lebenswelt’, _Phenomenological Reviews_.
+Bös, Gregor. forthcoming. ‘Review of Jörg Noller: Digitalität. Zur Philosophie der digitalen Lebenswelt’, <i>Phenomenological Reviews</i>.
 </summary>
 
 book review, invited by the journal, 2,100 words.
@@ -200,7 +200,7 @@ book review, invited by the journal, 2,100 words.
 
 <details>
 <summary>
-Groen-Xu, Moqi, __Gregor Bös__, Pedro A. Teixeira, Thomas Voigt, and Bernhard Knapp. 2023. ‘Short-term Incentives of Research Evaluations: Evidence from the UK Research Excellence Framework’, <i>Research Policy</i>, 53(6), <a href="https://doi.org/10.1016/j.respol.2023.104729">doi</a>  
+Groen-Xu, Moqi, <b>Gregor Bös</b>, Pedro A. Teixeira, Thomas Voigt, and Bernhard Knapp. 2023. ‘Short-term Incentives of Research Evaluations: Evidence from the UK Research Excellence Framework’, <i>Research Policy</i>, 53(6), <a href="https://doi.org/10.1016/j.respol.2023.104729">doi</a>.
 </summary>
 
 Empirical study of the publication and citation behaviour of UK scientists of all disciplines over 23 years. I wrote the software to match databases and aggregate observables, helped to interpret the findings and contributed to the writing of the article.
@@ -219,7 +219,7 @@ book review, peer-reviewed, 5,300 words
 
 
 <details>
-<summary> Bös, Gregor. 2022. 'Review of Emiliano Trizio: Philosophy's Nature. Husserl's Phenomenology, Natural Science, and Metaphysics'. <i>Phenomenological Reviews</i>, <a href="https://reviews.ophen.org/2022/10/30/emiliano-trizio-philosophys-nature-husserl-review/">online</a>) </summary>
+<summary> Bös, Gregor. 2022. 'Review of Emiliano Trizio: Philosophy's Nature. Husserl's Phenomenology, Natural Science, and Metaphysics'. <i>Phenomenological Reviews</i>, <a href="https://reviews.ophen.org/2022/10/30/emiliano-trizio-philosophys-nature-husserl-review/">online</a>. </summary>
 
 ---
 
