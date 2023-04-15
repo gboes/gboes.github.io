@@ -11,9 +11,9 @@ I am a postdoctoral researcher at KU Leuven, having completed my [PhD](https://k
 <!-- I am trying to understand how scientific theories (should) affect the concepts which operate in everyday life.  -->
 
 As a philosopher, I work on the question how (formal) scientific theories (should) affect the concepts which operate in everyday life. 
-My PhD thesis focused on the phenomenological notion of *lifeworld* and whether it can find a place in contemporary philosophy of science. This led me to questions ranging from logic, metaphysics, and semantics to the history of philosophy in the 19th and 20th century. To account for the 21st century, I next plan to discuss the conceptual changes occurring through the digitization of society.
+My PhD thesis focused on the phenomenological notion of *lifeworld* and whether it can find a place in contemporary philosophy of science. This led me to questions ranging from logic, metaphysics, and semantics to the history of philosophy in the 19th and 20th century. My plan is to extend this discussion also to the 21st century, where new conceptual changes are driven by the digitization of society.
 
-I am also interested in Natural Language Processing and have worked as a data scientist. I contributed to empirical research on the influence of the UK Research Evaluation Framework on the publication and citation behaviour of academic researchers (with Moqi Groen-Xu et al., forthcoming in *Research Policy*, [ SSRN preprint ](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3083692) ). 
+I have also worked as a data scientist, with an interest in Natural Language Processing. I contributed to empirical research on the influence of the UK Research Evaluation Framework on the publication and citation behaviour of academic researchers (with Moqi Groen-Xu et al., forthcoming in *Research Policy*, [ SSRN preprint ](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3083692) ). 
 
 There is also a section for [tools](./tools/) that I found useful for philosophy research. I am also on [Twitter](https://twitter.com/gregorboes) and, curiously, on [IMDB](https://www.imdb.com/name/nm6246223/).
 
