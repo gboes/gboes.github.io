@@ -210,7 +210,7 @@ Empirical study of the publication and citation behaviour of UK scientists of al
 
 
 <details>
-<summary> Bös, Gregor. 'Rare Encounters: Wiltsche and Berghofer's <i>Phenomenological Approaches to Physics</i>'. <i>Husserl Studies</i>, <a href="https://doi.org/10.1007/s10743-022-09307-3">doi</a>. </summary>
+<summary> Bös, Gregor. 2023. 'Rare Encounters: Wiltsche and Berghofer's <i>Phenomenological Approaches to Physics</i>'. <i>Husserl Studies</i>, <a href="https://doi.org/10.1007/s10743-022-09307-3">doi</a>. </summary>
 
 ---
 
