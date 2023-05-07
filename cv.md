@@ -413,7 +413,7 @@ International Undergraduate Conference in Analytic Philosophy at Bayreuth Univer
 </details>
 
 <details>
-<summary> Social Engagement
+<summary> Civic Engagement
 </summary>
-- Steering committee member (since 2019) and mentor (since 2015) for the [zis-foundation](https://www.zis-reisen.de/en/) (est. 1956) which offers scholarships to youth aged 16-21 to realize educational travel projects
+I am steering committee member (since 2019) and mentor (since 2015) for the educational [zis-foundation](https://www.zis-reisen.de/en/) (est. 1956). We offer mentoring and scholarships to let youth aged 16-21 realize international travel projects.
 </details>
