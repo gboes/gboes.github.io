@@ -379,6 +379,7 @@ International Undergraduate Conference in Analytic Philosophy at Bayreuth Univer
 <details>
 <summary> Scholarships and Awards
 </summary>
+
 - 2021 &ndash; 2022:  King's College London Scholarship of the Department of Philosophy Postgraduate Bursary
 - 2020: King's College London Global Research Grant. Supporting a Research Stay at the [Centre for Subjectivity Research](https://www.cfs.ku.dk), University of Copenhagen
 - 2018 &ndash; 2021: King's College London Faculty of Arts and Humanities: Full PhD Scholarship
@@ -415,5 +416,6 @@ International Undergraduate Conference in Analytic Philosophy at Bayreuth Univer
 <details>
 <summary> Civic Engagement
 </summary>
+
 I am steering committee member (since 2019) and mentor (since 2015) for the educational [zis-foundation](https://www.zis-reisen.de/en/) (est. 1956). We offer mentoring and scholarships to let youth aged 16-21 realize international travel projects.
 </details>
