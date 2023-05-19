@@ -200,7 +200,7 @@ book review, invited by the journal, 2,100 words.
 
 <details>
 <summary>
-Groen-Xu, Moqi, <b>Gregor Bös</b>, Pedro A. Teixeira, Thomas Voigt, and Bernhard Knapp. 2023. ‘Short-term Incentives of Research Evaluations: Evidence from the UK Research Excellence Framework’, <i>Research Policy</i>, 53(6), <a href="https://doi.org/10.1016/j.respol.2023.104729">doi</a>.
+Groen-Xu, Moqi, <b>Gregor Bös</b>, Pedro A. Teixeira, Thomas Voigt, and Bernhard Knapp. 2023. ‘Short-term Incentives of Research Evaluations: Evidence from the UK Research Excellence Framework’, <i>Research Policy</i>, 52(6): 22pg., <a href="https://doi.org/10.1016/j.respol.2023.104729">doi</a>.
 </summary>
 
 Empirical study of the publication and citation behaviour of UK scientists of all disciplines over 23 years. I wrote the software to match databases and aggregate observables, helped to interpret the findings and contributed to the writing of the article.
@@ -210,7 +210,7 @@ Empirical study of the publication and citation behaviour of UK scientists of al
 
 
 <details>
-<summary> Bös, Gregor. 2023. 'Rare Encounters: Wiltsche and Berghofer's <i>Phenomenological Approaches to Physics</i>'. <i>Husserl Studies</i>, <a href="https://doi.org/10.1007/s10743-022-09307-3">doi</a>. </summary>
+<summary> Bös, Gregor. 2023. 'Rare Encounters: Wiltsche and Berghofer's <i>Phenomenological Approaches to Physics</i>'. <i>Husserl Studies</i> 39(1), 101-111:  <a href="https://doi.org/10.1007/s10743-022-09307-3">doi</a>. </summary>
 
 ---
 
