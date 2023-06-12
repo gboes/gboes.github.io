@@ -190,7 +190,7 @@ Tutor and Research Tutor for two seminars on “Edmund Husserl: Logical Investig
 
 <details>
 <summary>
-Bös, Gregor. forthcoming. ‘Review of Jörg Noller: Digitalität. Zur Philosophie der digitalen Lebenswelt’, <i>Phenomenological Reviews</i>.
+Bös, Gregor. forthcoming. ‘Review of Jörg Noller: Digitalität. Zur Philosophie der digitalen Lebenswelt’, <i>Phenomenological Reviews</i>, <a href="https://reviews.ophen.org/2023/05/18/jorg-noller-digitalitat-zur-philosophie-der-digitalen-lebenswelt/">online</a>.
 </summary>
 
 book review, invited by the journal, 2,100 words.
