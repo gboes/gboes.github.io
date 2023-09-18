@@ -24,9 +24,20 @@ _click on entries to expand details_
 
 ## Research Employment
 
+<details>
+<summary>2023-11 &ndash; currently: Tilburg University, Netherlands
+</summary>
+
+Postdoctoral Researcher in the ERC project [Exiled Empiricists](https://exiledempiricists.wordpress.com/)
+
+Principal Investigator: Sander Verhaegh.
+
+</details>
+
+
 
 <details>
-<summary>2022-12 &ndash; currently: Katholieke Universiteit Leuven
+<summary>2022-12 &ndash; 2023-10: Katholieke Universiteit Leuven, Belgium
 </summary>
 
 Postdoctoral Researcher for the project _Phenomenology and the Scientific Image of the World_ (Postdoctoral Mandate 3H220352).  
@@ -190,7 +201,7 @@ Tutor and Research Tutor for two seminars on “Edmund Husserl: Logical Investig
 
 <details>
 <summary>
-Bös, Gregor. forthcoming. ‘Review of Jörg Noller: Digitalität. Zur Philosophie der digitalen Lebenswelt’, <i>Phenomenological Reviews</i>, <a href="https://reviews.ophen.org/2023/05/18/jorg-noller-digitalitat-zur-philosophie-der-digitalen-lebenswelt/">online</a>.
+Bös, Gregor. 2023. ‘Review of Jörg Noller: Digitalität. Zur Philosophie der digitalen Lebenswelt’, <i>Phenomenological Reviews</i>, <a href="https://reviews.ophen.org/2023/05/18/jorg-noller-digitalitat-zur-philosophie-der-digitalen-lebenswelt/">online</a>.
 </summary>
 
 book review, invited by the journal, 2,100 words.
