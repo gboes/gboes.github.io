@@ -254,7 +254,7 @@ book review, invited by the journal, 5,000 words
 
 
 <details>
-<summary> 2024-07-14: <i> TBC </i> </summary>
+<summary> 2024-07-14: <i> A Logical Challenge to Correlationism: The Church-Fitch Paradox in Husserl's Account of Fulfilment, Truth, and Meaning </i> </summary>
 
 ---
 
@@ -269,11 +269,6 @@ book review, invited by the journal, 5,000 words
 HOPOS 2024 Conference, University of Vienna, Austria
 </details>
 
-
-
-<details>
-
-
 <details>
 <summary> 2024-05-23: <i>Real Possibilities for Husserl's Correlation between Truth and Evidence </i> </summary>
 
@@ -281,10 +276,6 @@ HOPOS 2024 Conference, University of Vienna, Austria
 
 Husserl Circle Meeting at Creighton University in Omaha, Nebraska.
 </details>
-
-
-<details>
-
 
 <details>
 <summary> 2023-07-04: <i>Moore's Paradox in Husserlian Semantics </i> </summary>
