@@ -201,7 +201,18 @@ Tutor and Research Tutor for two seminars on “Edmund Husserl: Logical Investig
 
 <details>
 <summary>
-Bös, Gregor. 2023. ‘Review of Jörg Noller: Digitalität. Zur Philosophie der digitalen Lebenswelt’, <i>Phenomenological Reviews</i>, <a href="https://reviews.ophen.org/2023/05/18/jorg-noller-digitalitat-zur-philosophie-der-digitalen-lebenswelt/">online</a>.
+Bös, Gregor E. forthcoming. ‘A Logical Challenge to Correlationism: The Church-Fitch Paradox in Husserl's Account of Fulfilment, Truth, and Meaning’, <i>Synthese</i>, .
+</summary>
+
+Abstract: <br>
+Husserl’s theory of fulfilment conceives of empty acts, such as symbolic thought, and fulfilling acts, such as sensory perceptions, in a strict parallel. This parallelism is the basis for Husserl’s semantics, epistemology, and conception of truth. It also entails that any true proposition can be known in principle, which Church and Fitch have shown to explode into the claim that every proposition is actually known. I assess this logical challenge and discuss a recent response by James Kinkaid. While Kinkaid’s proposal saves one direction of the parallel for semantics, it gives up the parallelism for truth. I spell out a different response which meshes naturally with Husserl’s account of meaning. If the parallelism is restricted to a class of basic propositions, the truth of non-basic propositions can be defined inductively, without leading to the paradox. I then discuss objections that have been raised against a similar proposal by Dummett. The result is that exegetically plausible and popular interpretations of Husserl’s correlationism lead to logical paradoxes. But when taking into account the ‘logical adumbration’ of propositional blindspots, truth and possible fulfilment can be connected without paradox.
+
+</details>
+
+
+<details>
+<summary>
+Bös, Gregor E. 2023. ‘Review of Jörg Noller: Digitalität. Zur Philosophie der digitalen Lebenswelt’, <i>Phenomenological Reviews</i>, <a href="https://reviews.ophen.org/2023/05/18/jorg-noller-digitalitat-zur-philosophie-der-digitalen-lebenswelt/">online</a>.
 </summary>
 
 book review, invited by the journal, 2,100 words.
@@ -211,7 +222,7 @@ book review, invited by the journal, 2,100 words.
 
 <details>
 <summary>
-Groen-Xu, Moqi, <b>Gregor Bös</b>, Pedro A. Teixeira, Thomas Voigt, and Bernhard Knapp. 2023. ‘Short-term Incentives of Research Evaluations: Evidence from the UK Research Excellence Framework’, <i>Research Policy</i>, 52(6): 22pg., <a href="https://doi.org/10.1016/j.respol.2023.104729">doi</a>.
+Groen-Xu, Moqi, <b>Gregor E. Bös</b>, Pedro A. Teixeira, Thomas Voigt, and Bernhard Knapp. 2023. ‘Short-term Incentives of Research Evaluations: Evidence from the UK Research Excellence Framework’, <i>Research Policy</i>, 52(6): 22pg., <a href="https://doi.org/10.1016/j.respol.2023.104729">doi</a>.
 </summary>
 
 Empirical study of the publication and citation behaviour of UK scientists of all disciplines over 23 years. I wrote the software to match databases and aggregate observables, helped to interpret the findings and contributed to the writing of the article.
@@ -221,7 +232,7 @@ Empirical study of the publication and citation behaviour of UK scientists of al
 
 
 <details>
-<summary> Bös, Gregor. 2023. 'Rare Encounters: Wiltsche and Berghofer's <i>Phenomenological Approaches to Physics</i>'. <i>Husserl Studies</i> 39(1), 101-111:  <a href="https://doi.org/10.1007/s10743-022-09307-3">doi</a>. </summary>
+<summary> Bös, Gregor E.. 2023. 'Rare Encounters: Wiltsche and Berghofer's <i>Phenomenological Approaches to Physics</i>'. <i>Husserl Studies</i> 39(1), 101-111:  <a href="https://doi.org/10.1007/s10743-022-09307-3">doi</a>. </summary>
 
 ---
 
@@ -230,7 +241,7 @@ book review, peer-reviewed, 5,300 words
 
 
 <details>
-<summary> Bös, Gregor. 2022. 'Review of Emiliano Trizio: Philosophy's Nature. Husserl's Phenomenology, Natural Science, and Metaphysics'. <i>Phenomenological Reviews</i>, <a href="https://reviews.ophen.org/2022/10/30/emiliano-trizio-philosophys-nature-husserl-review/">online</a>. </summary>
+<summary> Bös, Gregor E.. 2022. 'Review of Emiliano Trizio: Philosophy's Nature. Husserl's Phenomenology, Natural Science, and Metaphysics'. <i>Phenomenological Reviews</i>, <a href="https://reviews.ophen.org/2022/10/30/emiliano-trizio-philosophys-nature-husserl-review/">online</a>. </summary>
 
 ---
 
@@ -240,6 +251,39 @@ book review, invited by the journal, 5,000 words
 
 
 ## Research Presentations <small>peer reviewed</small>
+
+
+<details>
+<summary> 2024-07-14: <i> TBC </i> </summary>
+
+---
+
+98th Joint Session of the Aristotelian Society and the Mind Association, University of Birmingham, UK
+</details>
+
+<details>
+<summary> 2024-07-12: <i> What happened to 'Rigorous Science' in Phenomenology? A Quantitative Study </i> </summary>
+
+---
+
+HOPOS 2024 Conference, University of Vienna, Austria
+</details>
+
+
+
+<details>
+
+
+<details>
+<summary> 2024-05-23: <i>Real Possibilities for Husserl's Correlation between Truth and Evidence </i> </summary>
+
+---
+
+Husserl Circle Meeting at Creighton University in Omaha, Nebraska.
+</details>
+
+
+<details>
 
 
 <details>
