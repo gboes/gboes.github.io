@@ -201,7 +201,7 @@ Tutor and Research Tutor for two seminars on “Edmund Husserl: Logical Investig
 
 <details>
 <summary>
-Bös, Gregor E. forthcoming. ‘A Logical Challenge to Correlationism: The Church-Fitch Paradox in Husserl's Account of Fulfilment, Truth, and Meaning’, <i>Synthese</i>, [doi](doi.org/10.1007/s11229-024-04584-1 "Link to open access article").
+Bös, Gregor E. 2024. ‘A Logical Challenge to Correlationism: The Church-Fitch Paradox in Husserl's Account of Fulfilment, Truth, and Meaning’, <i>Synthese</i>, <a href="https://doi.org/10.1007/s11229-024-04584-1">doi</a>.
 </summary>
 
 Abstract: <br>
