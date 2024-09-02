@@ -21,14 +21,45 @@ While the database is aimed at researchers, the web application can also be used
 </details>
 </li>
 </ol>
- 
+
+## Dissertation
+
+<div style="padding-left: 0em" >
+<div  style="padding-left: 0.5em"> 
+<details>
+<summary>Founding Science on the Lifeworld: Promises and Problems of a Phenomenological Philosophy of Natural Science. Dec. 2022, <i>King's College London</i> (<a href="https://kclpure.kcl.ac.uk/portal/files/191075863/2022_Boes_Gregor_1858048_ethesis.pdf">online</a>)
+</summary>
+
+<p>
+This dissertation investigates whether an account of scientific knowledge from the phenomenological tradition can offer a reconciliation of scientific and manifest images. I pursue this question in three parts: I) a study of the concept “lifeworld”, II) an examination of Husserl’s connection between truth and evidence, and III) an account of the metaphysics for scientific discovery.
+</p>
+
+<p>
+Part I motivates the problem and offers a historical and systematic reconstruction of Husserl’s notion of the lifeworld. Sellars spelled out a conflict between the conceptual schemes of everyday life and scientific theory and argued for the priority of the scientific image. Phenomenology investigates the manifest image, but one might worry that this requires a rejection of the scientific image. I focus on Husserl to develop an account that instead reconciles manifest and scientific images. Although the lifeworld is often associated with a late turn in Husserl’s philosophy, it grows naturally out of the notion of horizonal intentionality and builds on Avenarius’ natural concept of the world. I resolve ambiguities in Husserl’s account by distinguishing concrete (egocentric) lifeworld, shared lifeworld, and the eidos “lifeworld”.
+</p>
+
+<p>
+Understanding phenomenology as the systematic study of the lifeworld ex- plains why philosophers who reject Husserl’s official methodology are nevertheless recognizable as phenomenologists. Part II discusses Husserl’s notorious correlation between truth and possible evidence. From this arise three challenges for a reconciliation with the scientific image: first, from an epistemic restriction of truth, second from a semantic restriction through verificationism, and third, from logical problems with truth as knowability. Chapter 4 traces Husserl’s notion of truth back to Brentano and Bolzano, from where I develop a new realist interpretation. Chapter 5 discusses Husserl’s semantic restriction of meaning and shows that he is more liberal than the logical empiricists. Chapter 6 turns to the logical challenge from the Church-Fitch or knowability paradox.
+</p>
+
+<p>
+Part III returns to current debates in the philosophy of science. In the final chapter 7, I extend the account developed to a Phenomenological Structural Realism. Unlike existing forms of structural realism, the phenomenological version maintains a strict distinction between perceptual and mathematical structures and thereby avoids a collapse between mathematical and physical reality.
+</p>
+
+
+</details>
+</div>
+</div>
+<p>
+</p>
+
 ## Research Articles
 
 <ol reversed outside style="padding-left: 0em">
 {% for row in site.data.research_articles %}
 <li style="padding-left: 0.5em"> 
 <details>
-<summary>{{ row.authors }}, {{row.year}}: {{row.title}}. <i>{{row.venue}} </i> (<a href="{{ row.url}}">{{ row.urltext }}</a>). {{ row.extra}}
+<summary>{{row.year}}, {{ row.authors }}: {{row.title}}. <i>{{row.venue}} </i> (<a href="{{ row.url}}">{{ row.urltext }}</a>). {{ row.extra}}
 </summary>
 
 {{ row.abstract_pre}}
@@ -48,7 +79,7 @@ While the database is aimed at researchers, the web application can also be used
 <li style="padding-left: 1em"> 
 <!-- <details> -->
 <!-- <summary> -->
-{{ row.authors }}, {{row.year}}: {{row.title}}, <i>{{row.venue}} </i>, <a href="{{ row.url}}">{{ row.urlstr }}</a>. {{ row.extra}}
+ {{row.year}}, {{ row.authors }}: {{row.title}}, <i>{{row.venue}} </i>, <a href="{{ row.url}}">{{ row.urlstr }}</a>. {{ row.extra}}
 <!-- </summary> -->
 <!-- {{ row.abstract }} {{ row.abstract_extra }} -->
 <!-- </details> -->
@@ -62,7 +93,7 @@ While the database is aimed at researchers, the web application can also be used
 {% for row in site.data.presentations %}
 <li style="padding-left: 1em"> 
 <details>
-<summary>{{ row.date }}: {{row.title}}
+<summary>{{row.date}}: {{row.title}}
 </summary>
 
 {{row.collaborators}}
