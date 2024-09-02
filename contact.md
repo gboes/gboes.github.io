@@ -2,7 +2,7 @@
 layout: default
 title: Contact
 permalink: /contact/
-description: Contact Gregor Bös.
+description: Contact Gregor E. Bös.
 ---
 
 My current academic address can be found here [here](https://www.kuleuven.be/wieiswie/nl/person/00160016 "KU Leuven directory"). 

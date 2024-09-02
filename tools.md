@@ -21,11 +21,9 @@ The next most useful thing I established is probably my **e-reading and note tak
 
 Here is the [full article](/tools/ereader "Article on my ereader setup").
 
-<!-- ## Where did my day go? Time tracking -->
-<!-- This one is a bit too unspecific, but in the light of more and more people using apps for the same purpose, I thought it might be worth sharing anyway. -->
-<!-- To not get my priorities mixed up, I am tracking my time in a google spreadsheet. The units of time are "pomodoros", i.e. 30 minute intervals, but you could use anything you want of course. -->
-
-<!-- Here is [the article](/tools/time-tracker). -->
+<a href="/tools/ereader">
+<img src="/graphics/max3_portrait_web.jpg" height="500"/>
+</a>
 
 ## quick lookups with dynamic bookmarks (firefox, chrome)
 Bookmarks, as we all know, are just stored addresses in your browser. This just means that you permanently save a URL like https://gregorboes.com/tools/ A very useful feature of Firefox is to a) assign a shortcut label to these bookmarks and b) expand these bookmarks dynamically. a) just means that typing "xy" in the URL bar can be expanded to the whole bookmarked link. b) is the option to add a special character sequence, in the case of Firefox "%s", to make the bookmark dynamic. "%s" will be replaced with whatever you write after the shortcut, automatically substituting characters that cannot occur in an URL. This makes for a powerful tool because it means you can directly access any results page that is constructed from a URL. 
