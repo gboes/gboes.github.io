@@ -5,7 +5,7 @@ permalink: /res/
 description: Published Research
 ---
 # Publications and Research Presentations
-<p>Click on lines to open details.</p>
+<p><i>Click on entries to expand details.</i></p>
 
 ## Software and Datasets
 <ol reversed outside style="padding-left: 0em" type="1">
@@ -56,7 +56,7 @@ Part III returns to current debates in the philosophy of science. In the final c
 ## Research Articles
 
 <ol reversed outside style="padding-left: 0em">
-{% for row in site.data.research_articles %}
+{% for row in site.data.research_articles reversed %}
 <li style="padding-left: 0.5em"> 
 <details>
 <summary>{{row.year}}, {{ row.authors }}: {{row.title}}. <i>{{row.venue}} </i> (<a href="{{ row.url}}">{{ row.urltext }}</a>). {{ row.extra}}
@@ -75,7 +75,7 @@ Part III returns to current debates in the philosophy of science. In the final c
 
 ## Critical Notices and Book Reviews
 <ol reversed outside style="padding-left: 0em">
-{% for row in site.data.book_reviews %}
+{% for row in site.data.book_reviews reversed %}
 <li style="padding-left: 1em"> 
 <!-- <details> -->
 <!-- <summary> -->
@@ -90,7 +90,7 @@ Part III returns to current debates in the philosophy of science. In the final c
 ## Presentations
 
 <ol reversed outside style="padding-left: 0em">
-{% for row in site.data.presentations %}
+{% for row in site.data.presentations reversed %}
 <li style="padding-left: 1em"> 
 <details>
 <summary>{{row.date}}: {{row.title}}
