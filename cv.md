@@ -19,7 +19,7 @@ Custom CSS styling could make this more useful.
 <p>My philosophical interests are wide, but my research has focused on two topics:
 
 - What should a **phenomenological philosophy of natural** science look like?
-- How can **computational methods** serve the history of philosophy?
+- How can **computational methods** serve (the history of) philosophy?
 </p>
 
 _click on entries to expand details_
