@@ -27,7 +27,7 @@ While the database is aimed at researchers, the web application can also be used
 <div style="padding-left: 0em" >
 <div  style="padding-left: 0.5em"> 
 <details>
-<summary>Founding Science on the Lifeworld: Promises and Problems of a Phenomenological Philosophy of Natural Science. Dec. 2022, <i>King's College London</i> (<a href="https://kclpure.kcl.ac.uk/portal/files/191075863/2022_Boes_Gregor_1858048_ethesis.pdf">online</a>)
+<summary>Founding Science on the Lifeworld: Promises and Problems of a Phenomenological Philosophy of Natural Science. Dec. 2022, <i>King's College London</i>
 </summary>
 
 <p>
