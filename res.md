@@ -8,7 +8,7 @@ description: Published Research
 <p><i>Click on entries to expand details.</i></p>
 
 ## Software and Datasets
-<ol reversed outside style="padding-left: 0em" type="1">
+<ol reversed outside style="padding-left: 0em" type="1" start=1>
 <li style="padding-left: 0.5em"> 
 <details>
 <summary><span style="color:#3c6cf6">e</span>dhiphy and <a href="https://edhiphy.org/?gb">edhiphy.org</a>
@@ -55,7 +55,7 @@ Part III returns to current debates in the philosophy of science. In the final c
 
 ## Research Articles
 
-<ol reversed outside style="padding-left: 0em">
+<ol reversed outside style="padding-left: 0em" start={{ site.data.research_articles.size }}>
 {% for row in site.data.research_articles reversed %}
 <li style="padding-left: 0.5em"> 
 <details>
@@ -74,7 +74,7 @@ Part III returns to current debates in the philosophy of science. In the final c
 </ol>
 
 ## Critical Notices and Book Reviews
-<ol reversed outside style="padding-left: 0em">
+<ol reversed outside style="padding-left: 0em" start={{ site.data.book_reviews.size }}>
 {% for row in site.data.book_reviews reversed %}
 <li style="padding-left: 1em"> 
 <!-- <details> -->
@@ -89,7 +89,7 @@ Part III returns to current debates in the philosophy of science. In the final c
 
 ## Presentations
 
-<ol reversed outside style="padding-left: 0em">
+<ol reversed outside style="padding-left: 0em" start={{ site.data.presentations.size }}>
 {% for row in site.data.presentations reversed %}
 <li style="padding-left: 1em"> 
 <details>
