@@ -29,7 +29,17 @@ _click on entries to expand details_
 ## Research Employment
 
 <details>
-<summary>2023-11 &ndash; currently: Tilburg University, Netherlands
+<summary>2025-11 &ndash; currently: KU Leuven, Belgium
+</summary>
+
+FWO Postdoctoral Research Fellow
+
+Promotors: Jan Heylen, Julia Jansen.
+
+</details>
+
+<details>
+<summary>2023-11 &ndash; 2025-10: Tilburg University, Netherlands
 </summary>
 
 Postdoctoral Researcher in the ERC project [Exiled Empiricists](https://exiledempiricists.wordpress.com/)
@@ -41,7 +51,7 @@ Principal Investigator: Sander Verhaegh.
 
 
 <details>
-<summary>2022-12 &ndash; 2023-10: Katholieke Universiteit Leuven, Belgium
+<summary>2022-12 &ndash; 2023-10: KU Leuven, Belgium
 </summary>
 
 Postdoctoral Researcher for the project _Phenomenology and the Scientific Image of the World_ (Postdoctoral Mandate 3H220352).  
