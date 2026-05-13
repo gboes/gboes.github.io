@@ -5,16 +5,16 @@ description: Academic Website of Gregor E. Bös, postdoctoral researcher at Tilb
 ---
 # Welcome!
 
-I am a postdoctoral fellow at the philosophy department of KU Leuven, member of the Centre of Philosophy of Science and the Husserl Archives.
+I am a postdoctoral fellow at the philosophy department of KU Leuven, member of the Centre for Logic and Philosophy of Science and the Husserl Archives.
 I have completed my [PhD](https://kclpure.kcl.ac.uk/portal/en/theses/founding-science-on-the-lifeworld(405e0ffa-8c83-4ceb-bb04-dbc655b52a42).html "PhD at KCL repository")  in philosophy at King's College London in 2022, and before that obtained degrees in philosophy and physics from LMU Munich.
 
 <!-- Did you ever wonder what the world of your great-grandparents looked like &mdash; to them, not you? Changes in politics and religious beliefs might make for the most dramatic differences, but there are also differences in how we conceive of the natural world.  -->
 <!-- I am trying to understand how scientific theories (should) affect the concepts which operate in everyday life.  -->
 
-My philosophical interests are wide, but they revolve around the relation between the conceptual maps we develop in empirical sciences and the world as it presents itself in everyday experience. This means that I am developing phenomenological philosophy in the domain of general philosophy of science and more specifically the scientific realism debate.
-This involves debates with a long history, and the choices of which parts of that literature is still being read can be quite arbitrary. 
-Another strand in my work is therefore to leverage computational methods for the study of the history of philosophy (of science). 
-This was in particular developed in [Sander Verhaegh](http://www.sanderverhaegh.nl/)'s ERC project [Exiled Empiricists](https://exiledempiricists.wordpress.com/), which led to an 
+My philosophical interests revolve around the relation between scientific theories and pre-scientific relations to the world. More specifically, I work on phenomenological philosophy and its relation to questions from general philosophy of science, such as the scientific realism debate and theories of scientific representation. That crosses often over into questions from metaphysics and philosophy of language.
+
+I move between philosophical traditions and I am also interested in studying their relation by empirical means. To this end I am working on computational methods for the history of philosophy (of science). 
+My contribution to [Sander Verhaegh](http://www.sanderverhaegh.nl/)'s ERC project [Exiled Empiricists](https://exiledempiricists.wordpress.com/), which led to an 
 <a href="https://edhiphy.org">interactive web-application</a>. 
 I previously worked as a data scientist and contributed to empirical research on the UK Research Evaluation Framework (with Moqi Groen-Xu, [Research Policy](https://doi.org/10.1016/j.respol.2023.104729) ). 
 
