@@ -6,7 +6,7 @@ description: Academic Website of Gregor E. Bös, postdoctoral researcher at Tilb
 # Welcome!
 
 I am a postdoctoral fellow at the philosophy department of KU Leuven, member of the Centre for Logic and Philosophy of Science and the Husserl Archives.
-I have completed my [PhD](https://kclpure.kcl.ac.uk/portal/en/theses/founding-science-on-the-lifeworld(405e0ffa-8c83-4ceb-bb04-dbc655b52a42).html "PhD at KCL repository")  in philosophy at King's College London in 2022, and before that obtained degrees in philosophy and physics from LMU Munich.
+I have completed my [PhD](https://kclpure.kcl.ac.uk/portal/en/theses/founding-science-on-the-lifeworld(405e0ffa-8c83-4ceb-bb04-dbc655b52a42).html "PhD at KCL repository")  in philosophy at King's College London in 2022, and before that obtained degrees in philosophy and physics from LMU Munich. I was previously a postdoctoral researcher at Tilburg University.
 
 <!-- Did you ever wonder what the world of your great-grandparents looked like &mdash; to them, not you? Changes in politics and religious beliefs might make for the most dramatic differences, but there are also differences in how we conceive of the natural world.  -->
 <!-- I am trying to understand how scientific theories (should) affect the concepts which operate in everyday life.  -->
