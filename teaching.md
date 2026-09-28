@@ -34,7 +34,7 @@ Teaching appointment at the Centre for Philosophy of Science at Münster Univers
 
 A shorter version featured as a 'satellite workshop' at the 2025 GAP conference in Düsseldorf. Keynotes by Catherine Herfeld and Adrian Wüthrich.
 
-## Further teaching experience (mostly London)
+## Further teaching experience
 ### Seminars
 1. German for Reading: Philosophical Texts (2023, KU Leuven, 12 x 2h)
 2. Epistemology I (King's College London, Seminar Leader)
