@@ -4,3 +4,4 @@ _site
 .jekyll-metadata
 .graphics
 *.psd
+*.DS_Store
