@@ -6,39 +6,35 @@ description: Overview over courses taught
 ---
 
 
-## Knowing through Scientific Models 
-M.A. level course for the module **Advanced Epistemology**, KU Leuven, 2026/27.
-12 x 3h lecture with seminar.
-
+## Knowing through Scientific Models (Leuven)
+M.A. level course for the module **Advanced Epistemology**, 2026/27.
+12 x 3h lecture with seminar. 
 [Syllabus](/dl/Syllabus-knowing-through-models.pdf)
 
 
-## Continental and Phenomenological Philosophy of Science
+## Continental and Phenomenological Philosophy of Science (Leuven)
 M.A. level course for the module **Advanced Phenomenology and Contemporary Continental Philosophy**, KU Leuven, 2025/26.
-12 x 3h lecture with seminar.
+12 x 3h lecture with seminar. [Syllabus](/dl/Syllabus-phen-cont-phil-sci.pdf)
 
 Evaluated 8.9/10 (n=22). 
 
-[Syllabus](/dl/Syllabus-phen-cont-phil-sci.pdf)
-
-## Introduction to Philosophy of Science for Social Scientists
+## Introduction to Philosophy of Science for Social Scientists (Tilburg)
 B.A. level course, Tilburg University, 2024/25.
-12 x 2h lecture.
+12 x 2h lecture. [Syllabus](/dl/2026-syllabus-phil-soc-sci.pdf)
 
-[Syllabus](/dl/2026-syllabus-phil-soc-sci.pdf)
 
-## Block Seminar *Is there a scientific world picture - and if yes, how many?*
+
+## Block Seminar *Is there a scientific world picture - and if yes, how many?* (Münster)
 Teaching appointment at the Centre for Philosophy of Science at Münster University, 2024/25.
-4 x 6h seminar.
+4 x 6h seminar. [Syllabus](/dl/Seminarkonzept_Muenster_gibt_es_eine_wissenschaftliche_Weltauffassung_und_wenn_ja_wie_viele.pdf)
 
-[Syllabus](/dl/Seminarkonzept_Muenster_gibt_es_eine_wissenschaftliche_Weltauffassung_und_wenn_ja_wie_viele.pdf)
 
-## Workshops in 'Data Driven Philosophy'
+## Workshops in 'Data Driven Philosophy' (Utrecht; Düsseldorf)
 3-day Hackathon [event](https://www.ozsw.nl/activity/data-driven-methods-in-philosophy-2/) organised with [Max Noichl](https://maxnoichl.eu). Keynotes by Gregor Betz and Charles Pence. Carried out with funding through the Dutch Research School in philosophy (OZSW) at Utrecht University.
 
 A shorter version featured as a 'satellite workshop' at the 2025 GAP conference in Düsseldorf. Keynotes by Catherine Herfeld and Adrian Wüthrich.
 
-## Further teaching experience
+## Further teaching experience (mostly London)
 ### Seminars
 1. German for Reading: Philosophical Texts (2023, KU Leuven, 12 x 2h)
 2. Epistemology I (King's College London, Seminar Leader)
