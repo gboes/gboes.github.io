@@ -20,7 +20,8 @@ Evaluated 8.9/10 (n=22).
 
 ## Introduction to Philosophy of Science for Social Scientists (Tilburg)
 B.A. level course, Tilburg University, 2024/25.
-12 x 2h lecture. [Syllabus](/dl/2026-syllabus-phil-soc-sci.pdf)
+12 x 2h lecture. 
+<!-- [Syllabus](/dl/2026-syllabus-phil-soc-sci.pdf) -->
 
 
 
