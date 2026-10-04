@@ -24,9 +24,9 @@ description: Teaching experience overview
 
 
 ### Hackathons in 'Data Driven Philosophy' (Utrecht; Düsseldorf)
-3-day Hackathon [event](https://www.ozsw.nl/activity/data-driven-methods-in-philosophy-2/) organised with [Max Noichl](https://maxnoichl.eu). Keynotes by Gregor Betz and Charles Pence. Carried out with funding through the Dutch Research School in philosophy (OZSW) at Utrecht University.
+In 2025, [Max Noichl](https://maxnoichl.eu) and I ran a course that concluded in a 3-day Hackathon [event](https://www.ozsw.nl/activity/data-driven-methods-in-philosophy-2/)  with keynotes and practical instruction from Gregor Betz and Charles Pence. Carried out with funding through the Dutch Research School in philosophy (OZSW) at Utrecht University.
 
-A shorter version featured as a 'satellite workshop' at the 2025 GAP conference in Düsseldorf. Keynotes by Catherine Herfeld and Adrian Wüthrich.
+A shorter version featured as a 1.5 day workshop at the 2025 GAP conference in Düsseldorf. Keynotes by Catherine Herfeld and Adrian Wüthrich.
 
 ### Further teaching experience
 #### As seminar leader
