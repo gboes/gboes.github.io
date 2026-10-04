@@ -19,7 +19,7 @@ description: Teaching experience overview
 | 26/27 | Knowing through Scientific Models ([Syllabus](/dl/Syllabus-knowing-through-models.pdf)) *Module: Advanced Epistemology* | M.A. | KU Leuven | 12 x 3h lecture with seminar |
 | 25/26 | Continental and Phenomenological Philosophy of Science ([Syllabus](/dl/Syllabus-phen-cont-phil-sci.pdf)) *Module: Advanced Phenomenology and Contemporary Continental Philosophy* *Evaluated **8.9/10** (n=22)* | M.A. | KU Leuven | 12 x 3h lecture with seminar |
 | 24/25 | Introduction to Philosophy of Science for Social Scientists ([Syllabus](/dl/2026-syllabus-phil-soc-sci.pdf)) | B.A. | Tilburg University | 12 x 2h lecture |
-| 24/25 | Is there a scientific world picture - and if yes, how many? ([Syllabus](/dl/Seminarkonzept_Muenster_gibt_es_eine_wissenschaftliche_Weltauffassung_und_wenn_ja_wie_viele.pdf)) *Block Seminar* *Centre for Philosophy of Science* | B.A. | University of Münster | 4 x 6h seminar |
+| 24/25 | Is there a scientific world picture&mdash;and if yes, how many? ([Syllabus](/dl/Seminarkonzept_Muenster_gibt_es_eine_wissenschaftliche_Weltauffassung_und_wenn_ja_wie_viele.pdf)) *Block Seminar* *Centre for Philosophy of Science* | B.A. | University of Münster | 4 x 6h seminar |
 | 22/23 | German for Reading: Philosophical Texts *Work with primary texts*| B.A./M.A. | KU Leuven | 12 x 2h seminar |
 
 
