@@ -22,6 +22,12 @@ group :jekyll_plugins do
   gem "webrick"
 end
 
+# Standard-library gems that are no longer bundled by default from Ruby 3.4 on
+gem "base64"
+gem "bigdecimal"
+gem "csv"
+gem "logger"
+
 
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem

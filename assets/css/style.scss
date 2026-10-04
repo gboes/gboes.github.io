@@ -45,3 +45,35 @@ span.blockspam {
 span.gegenspeck {
   display: none;
 }
+
+/* Summary box: write as a Markdown blockquote (> ...) */
+blockquote {
+  background-color: #f6f7f8;
+  border-left: none;
+  padding: 12px 15px 1px;
+  font-style: normal;
+  margin-bottom: 20px;
+}
+
+/* Tables: *emphasis* in a cell becomes a small secondary line */
+td em {
+  display: block;
+  font-size: 0.85em;
+  font-style: normal;
+  color: #727272;
+}
+
+td em strong {
+  color: inherit;
+}
+
+td:first-child {
+  white-space: nowrap;
+}
+
+@media screen and (max-width: 480px) {
+  table {
+    display: block;
+    overflow-x: auto;
+  }
+}

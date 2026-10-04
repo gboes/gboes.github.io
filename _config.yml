@@ -10,9 +10,13 @@ baseurl:             ''
 markdown: CommonMarkGhPages
 commonmark:
   options: ["SMART", "FOOTNOTES", "UNSAFE"]
+  extensions: ["table"]
 
 exclude:
  - README.md
+ - Gemfile
+ - Gemfile.lock
+ - vendor
 
 # Google Analytics:
 google_analytics: UA-145857720-1

@@ -5,3 +5,5 @@ _site
 .graphics
 *.psd
 *.DS_Store
+vendor/
+.bundle/
