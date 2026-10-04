@@ -16,11 +16,11 @@ description: Teaching experience overview
 
 | Year | Course | Level | Institution | Format |
 |---|---|---|---|---|
-| 2026/27 | Knowing through Scientific Models ([Syllabus](/dl/Syllabus-knowing-through-models.pdf)) *Module: Advanced Epistemology* | M.A. | KU Leuven | 12 x 3h lecture with seminar |
-| 2025/26 | Continental and Phenomenological Philosophy of Science ([Syllabus](/dl/Syllabus-phen-cont-phil-sci.pdf)) *Module: Advanced Phenomenology and Contemporary Continental Philosophy* *Evaluated **8.9/10** (n=22)* | M.A. | KU Leuven | 12 x 3h lecture with seminar |
-| 2024/25 | Introduction to Philosophy of Science for Social Scientists ([Syllabus](/dl/2026-syllabus-phil-soc-sci.pdf)) | B.A. | Tilburg University | 12 x 2h lecture |
-| 2024/25 | Block Seminar 'Is there a scientific world picture - and if yes, how many?' ([Syllabus](/dl/Seminarkonzept_Muenster_gibt_es_eine_wissenschaftliche_Weltauffassung_und_wenn_ja_wie_viele.pdf)) *Block Seminar* *Centre for Philosophy of Science* | B.A. | Münster University | 4 x 6h seminar |
-| 2022/23 | German for Reading: Philosophical texts *Work with primary texts*| B.A./M.A. | KU Leuven | 12 x 2h seminar |
+| 26/27 | Knowing through Scientific Models ([Syllabus](/dl/Syllabus-knowing-through-models.pdf)) *Module: Advanced Epistemology* | M.A. | KU Leuven | 12 x 3h lecture with seminar |
+| 25/26 | Continental and Phenomenological Philosophy of Science ([Syllabus](/dl/Syllabus-phen-cont-phil-sci.pdf)) *Module: Advanced Phenomenology and Contemporary Continental Philosophy* *Evaluated **8.9/10** (n=22)* | M.A. | KU Leuven | 12 x 3h lecture with seminar |
+| 24/25 | Introduction to Philosophy of Science for Social Scientists ([Syllabus](/dl/2026-syllabus-phil-soc-sci.pdf)) | B.A. | Tilburg University | 12 x 2h lecture |
+| 24/25 | Block Seminar 'Is there a scientific world picture - and if yes, how many?' ([Syllabus](/dl/Seminarkonzept_Muenster_gibt_es_eine_wissenschaftliche_Weltauffassung_und_wenn_ja_wie_viele.pdf)) *Block Seminar* *Centre for Philosophy of Science* | B.A. | Münster University | 4 x 6h seminar |
+| 22/23 | German for Reading: Philosophical texts *Work with primary texts*| B.A./M.A. | KU Leuven | 12 x 2h seminar |
 
 
 ### Hackathons in 'Data Driven Philosophy' (Utrecht; Düsseldorf)
@@ -32,13 +32,13 @@ A shorter version featured as a 'satellite workshop' at the 2025 GAP conference 
 #### Seminars
 | Year | Course | Institution | Role | Convenor |
 |---|---|---|---|---|
-| 2022 | Epistemology I | King's College London | Seminar Leader | Winnie Ma |
-| 2022 | Introduction to Philosophy, Epistemology section | King's College London | Seminar Leader | Clayton Littlejohn |
-| 2021 | Methodology | King's College London | Seminar Leader | Julien Dutant |
-| 2021 | Belief and Decision under Uncertainty | King's College London | Seminar Leader | Alexander Bird |
-| 2020 | Methodology | King's College London | Seminar Leader | Julien Dutant |
-| 2020 | Belief and Decision under Uncertainty | King's College London | Seminar Leader | Alexander Bird |
-| 2019 | Ethics and Politics of Science and Technology | King's College London | Seminar Leader | Matteo Mameli |
+| 21/22 | Epistemology I | King's College London | Seminar Leader | Winnie Ma |
+| 21/22 | Introduction to Philosophy, Epistemology section | King's College London | Seminar Leader | Clayton Littlejohn |
+| 20/21 | Methodology | King's College London | Seminar Leader | Julien Dutant |
+| 20/21 | Belief and Decision under Uncertainty | King's College London | Seminar Leader | Alexander Bird |
+| 19/20 | Methodology | King's College London | Seminar Leader | Julien Dutant |
+| 19/20 | Belief and Decision under Uncertainty | King's College London | Seminar Leader | Alexander Bird |
+| 19/20 | Ethics and Politics of Science and Technology | King's College London | Seminar Leader | Matteo Mameli |
 
 
 #### Guest Lectures
