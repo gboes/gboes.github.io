@@ -10,7 +10,7 @@ description: Teaching experience overview
 >
 > I designed courses and lectured at KU Leuven, Tilburg University, and the University of Münster. I supervise or have supervised four M.A. theses and have examined many more. I also mentored research projects of 16--20-year-olds for the [zis foundation](https://www.zis-reisen.de) and had coaching training with [Leadership Choices](https://leadership-choices.com).
 
-<!-- Consider adding a teaching statement -->
+<!-- anchor for teaching statement -->
 
 ### As Primary Instructor
 
